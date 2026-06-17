@@ -1,0 +1,723 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 42,
+      "code": "af",
+      "name": "Afrikaans",
+      "createdAt": "2025-12-28T13:58:06.216Z",
+      "updatedAt": "2025-12-28T13:58:06.216Z",
+      "radioCount": 195
+    },
+    {
+      "id": 65,
+      "code": "ak",
+      "name": "Akan",
+      "createdAt": "2025-12-28T15:05:43.099Z",
+      "updatedAt": "2025-12-28T15:05:43.099Z",
+      "radioCount": 15
+    },
+    {
+      "id": 47,
+      "code": "sq",
+      "name": "Albanian",
+      "createdAt": "2025-12-28T13:58:38.313Z",
+      "updatedAt": "2025-12-28T13:58:38.313Z",
+      "radioCount": 73
+    },
+    {
+      "id": 63,
+      "code": "am",
+      "name": "Amharic",
+      "createdAt": "2025-12-28T15:05:08.098Z",
+      "updatedAt": "2025-12-28T15:05:08.098Z",
+      "radioCount": 7
+    },
+    {
+      "id": 19,
+      "code": "ar",
+      "name": "Arabic",
+      "createdAt": "2025-12-28T13:57:09.417Z",
+      "updatedAt": "2025-12-28T13:57:09.417Z",
+      "radioCount": 520
+    },
+    {
+      "id": 43,
+      "code": "hy",
+      "name": "Armenian",
+      "createdAt": "2025-12-28T13:58:33.735Z",
+      "updatedAt": "2025-12-28T13:58:33.735Z",
+      "radioCount": 24
+    },
+    {
+      "id": 83,
+      "code": "as",
+      "name": "Assamese",
+      "createdAt": "2025-12-28T16:00:50.736Z",
+      "updatedAt": "2025-12-28T16:00:50.736Z",
+      "radioCount": 4
+    },
+    {
+      "id": 61,
+      "code": "az",
+      "name": "Azerbaijani",
+      "createdAt": "2025-12-28T15:05:00.126Z",
+      "updatedAt": "2025-12-28T15:05:00.126Z",
+      "radioCount": 11
+    },
+    {
+      "id": 82,
+      "code": "bm",
+      "name": "Bambara",
+      "createdAt": "2025-12-28T16:00:50.711Z",
+      "updatedAt": "2025-12-28T16:00:50.711Z",
+      "radioCount": 1
+    },
+    {
+      "id": 45,
+      "code": "eu",
+      "name": "Basque",
+      "createdAt": "2025-12-28T13:58:36.042Z",
+      "updatedAt": "2025-12-28T13:58:36.042Z",
+      "radioCount": 13
+    },
+    {
+      "id": 58,
+      "code": "be",
+      "name": "Belarusian",
+      "createdAt": "2025-12-28T15:02:31.659Z",
+      "updatedAt": "2025-12-28T15:02:31.659Z",
+      "radioCount": 22
+    },
+    {
+      "id": 53,
+      "code": "bn",
+      "name": "Bengali",
+      "createdAt": "2025-12-28T13:59:06.040Z",
+      "updatedAt": "2025-12-28T13:59:06.040Z",
+      "radioCount": 45
+    },
+    {
+      "id": 49,
+      "code": "bs",
+      "name": "Bosnian",
+      "createdAt": "2025-12-28T13:58:40.555Z",
+      "updatedAt": "2025-12-28T13:58:40.555Z",
+      "radioCount": 94
+    },
+    {
+      "id": 35,
+      "code": "bg",
+      "name": "Bulgarian",
+      "createdAt": "2025-12-28T13:57:33.907Z",
+      "updatedAt": "2025-12-28T13:57:33.907Z",
+      "radioCount": 107
+    },
+    {
+      "id": 72,
+      "code": "my",
+      "name": "Burmese",
+      "createdAt": "2025-12-28T15:14:25.344Z",
+      "updatedAt": "2025-12-28T15:14:25.344Z",
+      "radioCount": 4
+    },
+    {
+      "id": 34,
+      "code": "zh",
+      "name": "Cantonese",
+      "createdAt": "2025-12-28T13:57:27.458Z",
+      "updatedAt": "2025-12-28T13:57:27.458Z",
+      "radioCount": 385
+    },
+    {
+      "id": 44,
+      "code": "ca",
+      "name": "Catalan",
+      "createdAt": "2025-12-28T13:58:35.993Z",
+      "updatedAt": "2025-12-28T13:58:35.993Z",
+      "radioCount": 89
+    },
+    {
+      "id": 64,
+      "code": "co",
+      "name": "Corsican",
+      "createdAt": "2025-12-28T15:05:08.996Z",
+      "updatedAt": "2025-12-28T15:05:08.996Z",
+      "radioCount": 1
+    },
+    {
+      "id": 16,
+      "code": "hr",
+      "name": "Croatian",
+      "createdAt": "2025-12-28T13:57:06.859Z",
+      "updatedAt": "2025-12-28T13:57:06.859Z",
+      "radioCount": 180
+    },
+    {
+      "id": 12,
+      "code": "cs",
+      "name": "Czech",
+      "createdAt": "2025-12-28T13:57:06.134Z",
+      "updatedAt": "2025-12-28T13:57:06.134Z",
+      "radioCount": 169
+    },
+    {
+      "id": 17,
+      "code": "da",
+      "name": "Danish",
+      "createdAt": "2025-12-28T13:57:07.005Z",
+      "updatedAt": "2025-12-28T13:57:07.005Z",
+      "radioCount": 143
+    },
+    {
+      "id": 23,
+      "code": "nl",
+      "name": "Dutch",
+      "createdAt": "2025-12-28T13:57:17.231Z",
+      "updatedAt": "2025-12-28T13:57:17.231Z",
+      "radioCount": 1182
+    },
+    {
+      "id": 5,
+      "code": "en",
+      "name": "English",
+      "createdAt": "2025-12-28T13:57:05.035Z",
+      "updatedAt": "2025-12-28T13:57:05.035Z",
+      "radioCount": 32229
+    },
+    {
+      "id": 26,
+      "code": "et",
+      "name": "Estonian",
+      "createdAt": "2025-12-28T13:57:18.874Z",
+      "updatedAt": "2025-12-28T13:57:18.874Z",
+      "radioCount": 60
+    },
+    {
+      "id": 37,
+      "code": "fi",
+      "name": "Finnish",
+      "createdAt": "2025-12-28T13:57:35.099Z",
+      "updatedAt": "2025-12-28T13:57:35.099Z",
+      "radioCount": 94
+    },
+    {
+      "id": 6,
+      "code": "fr",
+      "name": "French",
+      "createdAt": "2025-12-28T13:57:05.193Z",
+      "updatedAt": "2025-12-28T13:57:05.193Z",
+      "radioCount": 3896
+    },
+    {
+      "id": 50,
+      "code": "gl",
+      "name": "Galician",
+      "createdAt": "2025-12-28T13:58:47.448Z",
+      "updatedAt": "2025-12-28T13:58:47.448Z",
+      "radioCount": 9
+    },
+    {
+      "id": 88,
+      "code": "ka",
+      "name": "Georgian",
+      "createdAt": "2025-12-28T16:08:13.629Z",
+      "updatedAt": "2025-12-28T16:08:13.629Z",
+      "radioCount": 7
+    },
+    {
+      "id": 3,
+      "code": "de",
+      "name": "German",
+      "createdAt": "2025-12-28T13:57:04.713Z",
+      "updatedAt": "2025-12-28T13:57:04.713Z",
+      "radioCount": 6945
+    },
+    {
+      "id": 8,
+      "code": "el",
+      "name": "Greek",
+      "createdAt": "2025-12-28T13:57:05.464Z",
+      "updatedAt": "2025-12-28T13:57:05.464Z",
+      "radioCount": 858
+    },
+    {
+      "id": 68,
+      "code": "gu",
+      "name": "Gujarati",
+      "createdAt": "2025-12-28T15:12:42.582Z",
+      "updatedAt": "2025-12-28T15:12:42.582Z",
+      "radioCount": 13
+    },
+    {
+      "id": 74,
+      "code": "ha",
+      "name": "Hausa",
+      "createdAt": "2025-12-28T15:15:13.559Z",
+      "updatedAt": "2025-12-28T15:15:13.559Z",
+      "radioCount": 21
+    },
+    {
+      "id": 30,
+      "code": "he",
+      "name": "Hebrew",
+      "createdAt": "2025-12-28T13:57:24.626Z",
+      "updatedAt": "2025-12-28T13:57:24.626Z",
+      "radioCount": 228
+    },
+    {
+      "id": 24,
+      "code": "hi",
+      "name": "Hindi",
+      "createdAt": "2025-12-28T13:57:18.427Z",
+      "updatedAt": "2025-12-28T13:57:18.427Z",
+      "radioCount": 403
+    },
+    {
+      "id": 21,
+      "code": "hu",
+      "name": "Hungarian",
+      "createdAt": "2025-12-28T13:57:10.413Z",
+      "updatedAt": "2025-12-28T13:57:10.413Z",
+      "radioCount": 243
+    },
+    {
+      "id": 56,
+      "code": "is",
+      "name": "Icelandic",
+      "createdAt": "2025-12-28T15:00:27.477Z",
+      "updatedAt": "2025-12-28T15:00:27.477Z",
+      "radioCount": 19
+    },
+    {
+      "id": 9,
+      "code": "id",
+      "name": "Indonesian",
+      "createdAt": "2025-12-28T13:57:05.596Z",
+      "updatedAt": "2025-12-28T13:57:05.596Z",
+      "radioCount": 737
+    },
+    {
+      "id": 62,
+      "code": "ga",
+      "name": "Irish",
+      "createdAt": "2025-12-28T15:05:05.237Z",
+      "updatedAt": "2025-12-28T15:05:05.237Z",
+      "radioCount": 22
+    },
+    {
+      "id": 7,
+      "code": "it",
+      "name": "Italian",
+      "createdAt": "2025-12-28T13:57:05.436Z",
+      "updatedAt": "2025-12-28T13:57:05.436Z",
+      "radioCount": 1802
+    },
+    {
+      "id": 20,
+      "code": "ja",
+      "name": "Japanese",
+      "createdAt": "2025-12-28T13:57:09.514Z",
+      "updatedAt": "2025-12-28T13:57:09.514Z",
+      "radioCount": 139
+    },
+    {
+      "id": 85,
+      "code": "jv",
+      "name": "Javanese",
+      "createdAt": "2025-12-28T16:00:50.863Z",
+      "updatedAt": "2025-12-28T16:00:50.863Z",
+      "radioCount": 1
+    },
+    {
+      "id": 71,
+      "code": "kn",
+      "name": "Kannada",
+      "createdAt": "2025-12-28T15:14:23.373Z",
+      "updatedAt": "2025-12-28T15:14:23.373Z",
+      "radioCount": 21
+    },
+    {
+      "id": 32,
+      "code": "kk",
+      "name": "Kazakh",
+      "createdAt": "2025-12-28T13:57:27.075Z",
+      "updatedAt": "2025-12-28T13:57:27.075Z",
+      "radioCount": 8
+    },
+    {
+      "id": 78,
+      "code": "km",
+      "name": "Khmer",
+      "createdAt": "2025-12-28T15:25:39.856Z",
+      "updatedAt": "2025-12-28T15:25:39.856Z",
+      "radioCount": 5
+    },
+    {
+      "id": 73,
+      "code": "rw",
+      "name": "Kinyarwanda",
+      "createdAt": "2025-12-28T15:15:13.388Z",
+      "updatedAt": "2025-12-28T15:15:13.388Z",
+      "radioCount": 15
+    },
+    {
+      "id": 18,
+      "code": "ko",
+      "name": "Korean",
+      "createdAt": "2025-12-28T13:57:07.307Z",
+      "updatedAt": "2025-12-28T13:57:07.307Z",
+      "radioCount": 177
+    },
+    {
+      "id": 87,
+      "code": "ky",
+      "name": "Kyrgyz",
+      "createdAt": "2025-12-28T16:01:53.035Z",
+      "updatedAt": "2025-12-28T16:01:53.035Z",
+      "radioCount": 3
+    },
+    {
+      "id": 86,
+      "code": "lo",
+      "name": "Lao",
+      "createdAt": "2025-12-28T16:00:52.924Z",
+      "updatedAt": "2025-12-28T16:00:52.924Z",
+      "radioCount": 4
+    },
+    {
+      "id": 25,
+      "code": "lv",
+      "name": "Latvian",
+      "createdAt": "2025-12-28T13:57:18.637Z",
+      "updatedAt": "2025-12-28T13:57:18.637Z",
+      "radioCount": 45
+    },
+    {
+      "id": 36,
+      "code": "lt",
+      "name": "Lithuanian",
+      "createdAt": "2025-12-28T13:57:34.014Z",
+      "updatedAt": "2025-12-28T13:57:34.014Z",
+      "radioCount": 48
+    },
+    {
+      "id": 29,
+      "code": "mk",
+      "name": "Macedonian",
+      "createdAt": "2025-12-28T13:57:21.452Z",
+      "updatedAt": "2025-12-28T13:57:21.452Z",
+      "radioCount": 44
+    },
+    {
+      "id": 52,
+      "code": "ms",
+      "name": "Malay",
+      "createdAt": "2025-12-28T13:59:00.385Z",
+      "updatedAt": "2025-12-28T13:59:00.385Z",
+      "radioCount": 93
+    },
+    {
+      "id": 69,
+      "code": "ml",
+      "name": "Malayalam",
+      "createdAt": "2025-12-28T15:12:58.163Z",
+      "updatedAt": "2025-12-28T15:12:58.163Z",
+      "radioCount": 52
+    },
+    {
+      "id": 46,
+      "code": "mt",
+      "name": "Maltese",
+      "createdAt": "2025-12-28T13:58:36.233Z",
+      "updatedAt": "2025-12-28T13:58:36.233Z",
+      "radioCount": 17
+    },
+    {
+      "id": 59,
+      "code": "mr",
+      "name": "Marathi",
+      "createdAt": "2025-12-28T15:04:24.885Z",
+      "updatedAt": "2025-12-28T15:04:24.885Z",
+      "radioCount": 13
+    },
+    {
+      "id": 4,
+      "code": "ro",
+      "name": "Moldovan",
+      "createdAt": "2025-12-28T13:57:04.924Z",
+      "updatedAt": "2025-12-28T13:57:04.924Z",
+      "radioCount": 518
+    },
+    {
+      "id": 48,
+      "code": "mn",
+      "name": "Mongolian",
+      "createdAt": "2025-12-28T13:58:39.105Z",
+      "updatedAt": "2025-12-28T13:58:39.105Z",
+      "radioCount": 5
+    },
+    {
+      "id": 70,
+      "code": "nv",
+      "name": "Navajo",
+      "createdAt": "2025-12-28T15:14:14.976Z",
+      "updatedAt": "2025-12-28T15:14:14.976Z",
+      "radioCount": 2
+    },
+    {
+      "id": 33,
+      "code": "ne",
+      "name": "Nepali",
+      "createdAt": "2025-12-28T13:57:27.153Z",
+      "updatedAt": "2025-12-28T13:57:27.153Z",
+      "radioCount": 73
+    },
+    {
+      "id": 81,
+      "code": "or",
+      "name": "Odia",
+      "createdAt": "2025-12-28T16:00:45.179Z",
+      "updatedAt": "2025-12-28T16:00:45.179Z",
+      "radioCount": 8
+    },
+    {
+      "id": 80,
+      "code": "om",
+      "name": "Oromo",
+      "createdAt": "2025-12-28T15:36:30.674Z",
+      "updatedAt": "2025-12-28T15:36:30.674Z",
+      "radioCount": 2
+    },
+    {
+      "id": 55,
+      "code": "fa",
+      "name": "Persian",
+      "createdAt": "2025-12-28T15:00:26.264Z",
+      "updatedAt": "2025-12-28T15:00:26.264Z",
+      "radioCount": 61
+    },
+    {
+      "id": 27,
+      "code": "pl",
+      "name": "Polish",
+      "createdAt": "2025-12-28T13:57:20.186Z",
+      "updatedAt": "2025-12-28T13:57:20.186Z",
+      "radioCount": 1367
+    },
+    {
+      "id": 2,
+      "code": "pt",
+      "name": "Portuguese",
+      "createdAt": "2025-12-28T13:57:04.529Z",
+      "updatedAt": "2025-12-28T13:57:04.529Z",
+      "radioCount": 9811
+    },
+    {
+      "id": 39,
+      "code": "pa",
+      "name": "Punjabi",
+      "createdAt": "2025-12-28T13:57:40.673Z",
+      "updatedAt": "2025-12-28T13:57:40.673Z",
+      "radioCount": 106
+    },
+    {
+      "id": 76,
+      "code": "rm",
+      "name": "Romansh",
+      "createdAt": "2025-12-28T15:20:18.151Z",
+      "updatedAt": "2025-12-28T15:20:18.151Z",
+      "radioCount": 3
+    },
+    {
+      "id": 10,
+      "code": "ru",
+      "name": "Russian",
+      "createdAt": "2025-12-28T13:57:05.677Z",
+      "updatedAt": "2025-12-28T13:57:05.677Z",
+      "radioCount": 1938
+    },
+    {
+      "id": 79,
+      "code": "sa",
+      "name": "Sanskrit",
+      "createdAt": "2025-12-28T15:29:15.306Z",
+      "updatedAt": "2025-12-28T15:29:15.306Z",
+      "radioCount": 3
+    },
+    {
+      "id": 11,
+      "code": "sr",
+      "name": "Serbian",
+      "createdAt": "2025-12-28T13:57:05.772Z",
+      "updatedAt": "2025-12-28T13:57:05.772Z",
+      "radioCount": 468
+    },
+    {
+      "id": 54,
+      "code": "si",
+      "name": "Sinhala",
+      "createdAt": "2025-12-28T14:58:50.796Z",
+      "updatedAt": "2025-12-28T14:58:50.796Z",
+      "radioCount": 65
+    },
+    {
+      "id": 40,
+      "code": "sk",
+      "name": "Slovak",
+      "createdAt": "2025-12-28T13:57:55.698Z",
+      "updatedAt": "2025-12-28T13:57:55.698Z",
+      "radioCount": 67
+    },
+    {
+      "id": 22,
+      "code": "sl",
+      "name": "Slovene",
+      "createdAt": "2025-12-28T13:57:11.724Z",
+      "updatedAt": "2025-12-28T13:57:11.724Z",
+      "radioCount": 102
+    },
+    {
+      "id": 1,
+      "code": "es",
+      "name": "Spanish",
+      "createdAt": "2025-12-28T13:57:04.487Z",
+      "updatedAt": "2025-12-28T13:57:04.487Z",
+      "radioCount": 17650
+    },
+    {
+      "id": 84,
+      "code": "su",
+      "name": "Sundanese",
+      "createdAt": "2025-12-28T16:00:50.762Z",
+      "updatedAt": "2025-12-28T16:00:50.762Z",
+      "radioCount": 2
+    },
+    {
+      "id": 57,
+      "code": "sw",
+      "name": "Swahili",
+      "createdAt": "2025-12-28T15:01:01.140Z",
+      "updatedAt": "2025-12-28T15:01:01.140Z",
+      "radioCount": 165
+    },
+    {
+      "id": 13,
+      "code": "sv",
+      "name": "Swedish",
+      "createdAt": "2025-12-28T13:57:06.193Z",
+      "updatedAt": "2025-12-28T13:57:06.193Z",
+      "radioCount": 193
+    },
+    {
+      "id": 38,
+      "code": "tl",
+      "name": "Tagalog",
+      "createdAt": "2025-12-28T13:57:39.956Z",
+      "updatedAt": "2025-12-28T13:57:39.956Z",
+      "radioCount": 261
+    },
+    {
+      "id": 75,
+      "code": "tg",
+      "name": "Tajik",
+      "createdAt": "2025-12-28T15:19:16.266Z",
+      "updatedAt": "2025-12-28T15:19:16.266Z",
+      "radioCount": 1
+    },
+    {
+      "id": 28,
+      "code": "ta",
+      "name": "Tamil",
+      "createdAt": "2025-12-28T13:57:21.195Z",
+      "updatedAt": "2025-12-28T13:57:21.195Z",
+      "radioCount": 234
+    },
+    {
+      "id": 51,
+      "code": "te",
+      "name": "Telugu",
+      "createdAt": "2025-12-28T13:58:53.361Z",
+      "updatedAt": "2025-12-28T13:58:53.361Z",
+      "radioCount": 31
+    },
+    {
+      "id": 31,
+      "code": "th",
+      "name": "Thai",
+      "createdAt": "2025-12-28T13:57:26.665Z",
+      "updatedAt": "2025-12-28T13:57:26.665Z",
+      "radioCount": 207
+    },
+    {
+      "id": 89,
+      "code": "ti",
+      "name": "Tigrinya",
+      "createdAt": "2025-12-28T20:21:34.395Z",
+      "updatedAt": "2025-12-28T20:21:34.395Z",
+      "radioCount": 1
+    },
+    {
+      "id": 14,
+      "code": "tr",
+      "name": "Turkish",
+      "createdAt": "2025-12-28T13:57:06.363Z",
+      "updatedAt": "2025-12-28T13:57:06.363Z",
+      "radioCount": 898
+    },
+    {
+      "id": 15,
+      "code": "uk",
+      "name": "Ukrainian",
+      "createdAt": "2025-12-28T13:57:06.503Z",
+      "updatedAt": "2025-12-28T13:57:06.503Z",
+      "radioCount": 468
+    },
+    {
+      "id": 41,
+      "code": "ur",
+      "name": "Urdu",
+      "createdAt": "2025-12-28T13:58:05.860Z",
+      "updatedAt": "2025-12-28T13:58:05.860Z",
+      "radioCount": 93
+    },
+    {
+      "id": 77,
+      "code": "uz",
+      "name": "Uzbek",
+      "createdAt": "2025-12-28T15:23:22.870Z",
+      "updatedAt": "2025-12-28T15:23:22.870Z",
+      "radioCount": 5
+    },
+    {
+      "id": 67,
+      "code": "vi",
+      "name": "Vietnamese",
+      "createdAt": "2025-12-28T15:07:59.764Z",
+      "updatedAt": "2025-12-28T15:07:59.764Z",
+      "radioCount": 51
+    },
+    {
+      "id": 60,
+      "code": "cy",
+      "name": "Welsh",
+      "createdAt": "2025-12-28T15:04:48.838Z",
+      "updatedAt": "2025-12-28T15:04:48.838Z",
+      "radioCount": 2
+    },
+    {
+      "id": 66,
+      "code": "zu",
+      "name": "Zulu",
+      "createdAt": "2025-12-28T15:06:32.331Z",
+      "updatedAt": "2025-12-28T15:06:32.331Z",
+      "radioCount": 27
+    }
+  ],
+  "meta": {
+    "page": 1,
+    "limit": 100,
+    "total": 89,
+    "totalPages": 1
+  }
+}

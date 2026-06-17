@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RadioWorld</title>
+  <link rel="stylesheet" href="/src/style.css">
+</head>
+<body>
+
+  <!-- Loading overlay -->
+  <div id="loading">
+    <div class="spinner"></div>
+    <p>Tuning in to the world&hellip;</p>
+  </div>
+
+  <!-- WebGPU not supported -->
+  <div id="webgpu-error">
+    <h2>WebGPU Not Supported</h2>
+    <p>Please use Chrome 113+ or Edge 113+ with WebGPU enabled.</p>
+  </div>
+
+  <!-- ── Search / filter panel ── -->
+  <div id="search-panel">
+    <div class="search-header">
+      <span class="app-name">RadioWorld</span>
+      <div id="panel-spinner" class="mini-spinner hidden"></div>
+    </div>
+
+    <span id="station-count" class="station-count"></span>
+
+    <!-- Active filter pill -->
+    <div class="active-filter hidden">
+      Filtering by <strong id="active-filter-label"></strong>
+      <button id="reset-filter" class="reset-btn hidden">&#x2715; Clear</button>
+    </div>
+
+    <div class="filter-section">
+      <div class="filter-label">Genre</div>
+      <div id="genre-list" class="chip-list">
+        <div class="mini-spinner"></div>
+      </div>
+    </div>
+
+    <div class="filter-section">
+      <div class="filter-label">Language</div>
+      <div id="language-list" class="chip-list">
+        <div class="mini-spinner"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Station info panel ── -->
+  <div id="station-panel" class="hidden">
+    <button id="close-panel" aria-label="Close">&times;</button>
+
+    <div class="station-header">
+      <div class="logo-wrap">
+        <img id="station-logo" src="" alt="Station logo">
+        <div class="logo-fallback" id="logo-fallback">&#9654;</div>
+      </div>
+      <div class="station-titles">
+        <h2 id="station-name"></h2>
+        <p id="station-meta"></p>
+      </div>
+    </div>
+
+    <div id="station-tags"></div>
+
+    <div class="player-bar">
+      <button id="play-btn" class="play-btn" title="Play / Stop">
+        <span class="icon-play">&#9654;</span>
+        <span class="icon-stop" style="display:none">&#9632;</span>
+      </button>
+      <div class="player-info">
+        <span id="play-status">Click to stream</span>
+        <span id="play-bitrate"></span>
+      </div>
+      <div class="player-wave" id="player-wave">
+        <span></span><span></span><span></span><span></span><span></span>
+      </div>
+    </div>
+
+    <audio id="station-audio" preload="none"></audio>
+    <div id="station-band" class="band-badge hidden"></div>
+  </div>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

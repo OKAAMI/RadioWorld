@@ -1,0 +1,1895 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 157,
+      "name": "Afghanistan",
+      "code": "AF",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:11:43.205Z",
+      "updatedAt": "2025-12-28T18:11:43.205Z",
+      "radioCount": 19
+    },
+    {
+      "id": 158,
+      "name": "Albania",
+      "code": "AL",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:11:46.358Z",
+      "updatedAt": "2025-12-28T18:11:46.358Z",
+      "radioCount": 56
+    },
+    {
+      "id": 22,
+      "name": "Algeria",
+      "code": "DZ",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:36:35.821Z",
+      "updatedAt": "2025-12-28T16:36:35.821Z",
+      "radioCount": 103
+    },
+    {
+      "id": 176,
+      "name": "American Samoa",
+      "code": "AS",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:15:15.764Z",
+      "updatedAt": "2025-12-28T18:15:15.764Z",
+      "radioCount": 5
+    },
+    {
+      "id": 192,
+      "name": "Andorra",
+      "code": "AD",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:22:57.889Z",
+      "updatedAt": "2025-12-28T18:22:57.889Z",
+      "radioCount": 15
+    },
+    {
+      "id": 149,
+      "name": "Angola",
+      "code": "AO",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:11:00.042Z",
+      "updatedAt": "2025-12-28T18:11:00.042Z",
+      "radioCount": 56
+    },
+    {
+      "id": 130,
+      "name": "Anguilla",
+      "code": "AI",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:03:33.838Z",
+      "updatedAt": "2025-12-28T17:03:33.838Z",
+      "radioCount": 6
+    },
+    {
+      "id": 99,
+      "name": "Antigua and Barbuda",
+      "code": "AG",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:01:04.905Z",
+      "updatedAt": "2025-12-28T17:01:04.905Z",
+      "radioCount": 24
+    },
+    {
+      "id": 28,
+      "name": "Argentina",
+      "code": "AR",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:22.072Z",
+      "updatedAt": "2025-12-28T16:56:22.072Z",
+      "radioCount": 3084
+    },
+    {
+      "id": 166,
+      "name": "Armenia",
+      "code": "AM",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:13:03.308Z",
+      "updatedAt": "2025-12-28T18:13:03.308Z",
+      "radioCount": 28
+    },
+    {
+      "id": 171,
+      "name": "Aruba",
+      "code": "AW",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:14:12.705Z",
+      "updatedAt": "2025-12-28T18:14:12.705Z",
+      "radioCount": 26
+    },
+    {
+      "id": 13,
+      "name": "Australia",
+      "code": "AU",
+      "useStateInCityName": true,
+      "createdAt": "2025-12-28T16:36:27.430Z",
+      "updatedAt": "2025-12-28T16:36:27.430Z",
+      "radioCount": 1163
+    },
+    {
+      "id": 142,
+      "name": "Austria",
+      "code": "AT",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:01:58.558Z",
+      "updatedAt": "2025-12-28T18:01:58.558Z",
+      "radioCount": 300
+    },
+    {
+      "id": 122,
+      "name": "Azerbaijan",
+      "code": "AZ",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:03:16.988Z",
+      "updatedAt": "2025-12-28T17:03:16.988Z",
+      "radioCount": 19
+    },
+    {
+      "id": 125,
+      "name": "Bahamas",
+      "code": "BS",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:03:18.986Z",
+      "updatedAt": "2025-12-28T17:03:18.986Z",
+      "radioCount": 27
+    },
+    {
+      "id": 187,
+      "name": "Bahrain",
+      "code": "BH",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:19:39.392Z",
+      "updatedAt": "2025-12-28T18:19:39.392Z",
+      "radioCount": 8
+    },
+    {
+      "id": 141,
+      "name": "Bangladesh",
+      "code": "BD",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:01:47.099Z",
+      "updatedAt": "2025-12-28T18:01:47.099Z",
+      "radioCount": 58
+    },
+    {
+      "id": 163,
+      "name": "Barbados",
+      "code": "BB",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:12:22.176Z",
+      "updatedAt": "2025-12-28T18:12:22.176Z",
+      "radioCount": 18
+    },
+    {
+      "id": 103,
+      "name": "Belarus",
+      "code": "BY",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:01:10.266Z",
+      "updatedAt": "2025-12-28T17:01:10.266Z",
+      "radioCount": 53
+    },
+    {
+      "id": 15,
+      "name": "Belgium",
+      "code": "BE",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:36:31.672Z",
+      "updatedAt": "2025-12-28T16:36:31.672Z",
+      "radioCount": 493
+    },
+    {
+      "id": 152,
+      "name": "Belize",
+      "code": "BZ",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:11:26.298Z",
+      "updatedAt": "2025-12-28T18:11:26.298Z",
+      "radioCount": 25
+    },
+    {
+      "id": 154,
+      "name": "Benin",
+      "code": "BJ",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:11:41.338Z",
+      "updatedAt": "2025-12-28T18:11:41.338Z",
+      "radioCount": 20
+    },
+    {
+      "id": 191,
+      "name": "Bermuda",
+      "code": "BM",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:22:41.816Z",
+      "updatedAt": "2025-12-28T18:22:41.816Z",
+      "radioCount": 12
+    },
+    {
+      "id": 84,
+      "name": "Bolivia",
+      "code": "BO",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:49.944Z",
+      "updatedAt": "2025-12-28T17:00:49.944Z",
+      "radioCount": 321
+    },
+    {
+      "id": 80,
+      "name": "Bosnia and Herzegovina",
+      "code": "BA",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:46.282Z",
+      "updatedAt": "2025-12-28T17:00:46.282Z",
+      "radioCount": 139
+    },
+    {
+      "id": 134,
+      "name": "Botswana",
+      "code": "BW",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:04:27.696Z",
+      "updatedAt": "2025-12-28T17:04:27.696Z",
+      "radioCount": 14
+    },
+    {
+      "id": 4,
+      "name": "Brazil",
+      "code": "BR",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:13:36.794Z",
+      "updatedAt": "2025-12-28T16:13:36.794Z",
+      "radioCount": 10469
+    },
+    {
+      "id": 186,
+      "name": "Brunei",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:19:38.818Z",
+      "updatedAt": "2025-12-28T18:19:38.818Z",
+      "radioCount": 8
+    },
+    {
+      "id": 118,
+      "name": "Bulgaria",
+      "code": "BG",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:02:48.304Z",
+      "updatedAt": "2025-12-28T17:02:48.304Z",
+      "radioCount": 134
+    },
+    {
+      "id": 183,
+      "name": "Burkina Faso",
+      "code": "BF",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:18:33.624Z",
+      "updatedAt": "2025-12-28T18:18:33.624Z",
+      "radioCount": 10
+    },
+    {
+      "id": 161,
+      "name": "Burundi",
+      "code": "BI",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:12:13.526Z",
+      "updatedAt": "2025-12-28T18:12:13.526Z",
+      "radioCount": 10
+    },
+    {
+      "id": 124,
+      "name": "Cambodia",
+      "code": "KH",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:03:18.329Z",
+      "updatedAt": "2025-12-28T17:03:18.329Z",
+      "radioCount": 11
+    },
+    {
+      "id": 119,
+      "name": "Cameroon",
+      "code": "CM",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:02:48.970Z",
+      "updatedAt": "2025-12-28T17:02:48.970Z",
+      "radioCount": 22
+    },
+    {
+      "id": 17,
+      "name": "Canada",
+      "code": "CA",
+      "useStateInCityName": true,
+      "createdAt": "2025-12-28T16:36:31.967Z",
+      "updatedAt": "2025-12-28T16:36:31.967Z",
+      "radioCount": 2244
+    },
+    {
+      "id": 146,
+      "name": "Cape Verde",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:10:40.209Z",
+      "updatedAt": "2025-12-28T18:10:40.209Z",
+      "radioCount": 13
+    },
+    {
+      "id": 68,
+      "name": "Cayman Islands",
+      "code": "KY",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:38.919Z",
+      "updatedAt": "2025-12-28T16:56:38.919Z",
+      "radioCount": 17
+    },
+    {
+      "id": 160,
+      "name": "Central African Republic",
+      "code": "CF",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:11:51.654Z",
+      "updatedAt": "2025-12-28T18:11:51.654Z",
+      "radioCount": 3
+    },
+    {
+      "id": 140,
+      "name": "Chad",
+      "code": "TD",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:01:42.357Z",
+      "updatedAt": "2025-12-28T18:01:42.357Z",
+      "radioCount": 1
+    },
+    {
+      "id": 73,
+      "name": "Chile",
+      "code": "CL",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:45.039Z",
+      "updatedAt": "2025-12-28T17:00:45.039Z",
+      "radioCount": 944
+    },
+    {
+      "id": 26,
+      "name": "China",
+      "code": "CN",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:21.919Z",
+      "updatedAt": "2025-12-28T16:56:21.919Z",
+      "radioCount": 269
+    },
+    {
+      "id": 16,
+      "name": "Colombia",
+      "code": "CO",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:36:31.938Z",
+      "updatedAt": "2025-12-28T16:36:31.938Z",
+      "radioCount": 3186
+    },
+    {
+      "id": 181,
+      "name": "Cook Islands",
+      "code": "CK",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:17:55.174Z",
+      "updatedAt": "2025-12-28T18:17:55.174Z",
+      "radioCount": 2
+    },
+    {
+      "id": 32,
+      "name": "Costa Rica",
+      "code": "CR",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:22.614Z",
+      "updatedAt": "2025-12-28T16:56:22.614Z",
+      "radioCount": 187
+    },
+    {
+      "id": 53,
+      "name": "Croatia",
+      "code": "HR",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:30.566Z",
+      "updatedAt": "2025-12-28T16:56:30.566Z",
+      "radioCount": 175
+    },
+    {
+      "id": 112,
+      "name": "Cuba",
+      "code": "CU",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:02:21.325Z",
+      "updatedAt": "2025-12-28T17:02:21.325Z",
+      "radioCount": 59
+    },
+    {
+      "id": 54,
+      "name": "Cyprus",
+      "code": "CY",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:30.823Z",
+      "updatedAt": "2025-12-28T16:56:30.823Z",
+      "radioCount": 98
+    },
+    {
+      "id": 56,
+      "name": "Czech Republic",
+      "code": "CZ",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:32.415Z",
+      "updatedAt": "2025-12-28T16:56:32.415Z",
+      "radioCount": 193
+    },
+    {
+      "id": 156,
+      "name": "Democratic Republic of the Congo",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:11:42.896Z",
+      "updatedAt": "2025-12-28T18:11:42.896Z",
+      "radioCount": 47
+    },
+    {
+      "id": 180,
+      "name": "Democratic Republic of the Congo_2",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:17:12.462Z",
+      "updatedAt": "2025-12-28T18:17:12.462Z",
+      "radioCount": 1
+    },
+    {
+      "id": 82,
+      "name": "Denmark",
+      "code": "DK",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:47.782Z",
+      "updatedAt": "2025-12-28T17:00:47.782Z",
+      "radioCount": 179
+    },
+    {
+      "id": 145,
+      "name": "Dominica",
+      "code": "DM",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:10:31.004Z",
+      "updatedAt": "2025-12-28T18:10:31.004Z",
+      "radioCount": 15
+    },
+    {
+      "id": 64,
+      "name": "Dominican Republic",
+      "code": "DO",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:35.214Z",
+      "updatedAt": "2025-12-28T16:56:35.214Z",
+      "radioCount": 515
+    },
+    {
+      "id": 194,
+      "name": "East Timor",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:23:21.393Z",
+      "updatedAt": "2025-12-28T18:23:21.393Z",
+      "radioCount": 3
+    },
+    {
+      "id": 77,
+      "name": "Ecuador",
+      "code": "EC",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:45.743Z",
+      "updatedAt": "2025-12-28T17:00:45.743Z",
+      "radioCount": 632
+    },
+    {
+      "id": 91,
+      "name": "Egypt",
+      "code": "EG",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:58.050Z",
+      "updatedAt": "2025-12-28T17:00:58.050Z",
+      "radioCount": 57
+    },
+    {
+      "id": 93,
+      "name": "El Salvador",
+      "code": "SV",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:58.960Z",
+      "updatedAt": "2025-12-28T17:00:58.960Z",
+      "radioCount": 206
+    },
+    {
+      "id": 201,
+      "name": "Eritrea",
+      "code": "ER",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:43:26.716Z",
+      "updatedAt": "2025-12-28T18:43:26.716Z",
+      "radioCount": 1
+    },
+    {
+      "id": 67,
+      "name": "Estonia",
+      "code": "EE",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:37.878Z",
+      "updatedAt": "2025-12-28T16:56:37.878Z",
+      "radioCount": 83
+    },
+    {
+      "id": 36,
+      "name": "Ethiopia",
+      "code": "ET",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:22.836Z",
+      "updatedAt": "2025-12-28T16:56:22.836Z",
+      "radioCount": 23
+    },
+    {
+      "id": 185,
+      "name": "Falkland Islands",
+      "code": null,
+      "useStateInCityName": true,
+      "createdAt": "2025-12-28T18:19:38.694Z",
+      "updatedAt": "2025-12-28T18:19:38.694Z",
+      "radioCount": 2
+    },
+    {
+      "id": 202,
+      "name": "Faroe Islands, Denmark",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:44:55.127Z",
+      "updatedAt": "2025-12-28T18:44:55.127Z",
+      "radioCount": 6
+    },
+    {
+      "id": 94,
+      "name": "Fiji",
+      "code": "FJ",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:01:02.059Z",
+      "updatedAt": "2025-12-28T17:01:02.059Z",
+      "radioCount": 19
+    },
+    {
+      "id": 86,
+      "name": "Finland",
+      "code": "FI",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:52.282Z",
+      "updatedAt": "2025-12-28T17:00:52.282Z",
+      "radioCount": 104
+    },
+    {
+      "id": 9,
+      "name": "France",
+      "code": "FR",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:13:37.192Z",
+      "updatedAt": "2025-12-28T16:13:37.192Z",
+      "radioCount": 3448
+    },
+    {
+      "id": 175,
+      "name": "French Polynesia",
+      "code": "PF",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:15:09.744Z",
+      "updatedAt": "2025-12-28T18:15:09.744Z",
+      "radioCount": 13
+    },
+    {
+      "id": 208,
+      "name": "French West Indies",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T20:01:38.963Z",
+      "updatedAt": "2025-12-28T20:01:38.963Z",
+      "radioCount": 6
+    },
+    {
+      "id": 155,
+      "name": "Gabon",
+      "code": "GA",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:11:41.846Z",
+      "updatedAt": "2025-12-28T18:11:41.846Z",
+      "radioCount": 6
+    },
+    {
+      "id": 20,
+      "name": "Gambia (The)",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:36:35.343Z",
+      "updatedAt": "2025-12-28T16:36:35.343Z",
+      "radioCount": 5
+    },
+    {
+      "id": 123,
+      "name": "Georgia",
+      "code": "GE",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:03:17.948Z",
+      "updatedAt": "2025-12-28T17:03:17.948Z",
+      "radioCount": 15
+    },
+    {
+      "id": 5,
+      "name": "Germany",
+      "code": "DE",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:13:36.841Z",
+      "updatedAt": "2025-12-28T16:13:36.841Z",
+      "radioCount": 6870
+    },
+    {
+      "id": 39,
+      "name": "Ghana",
+      "code": "GH",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:23.347Z",
+      "updatedAt": "2025-12-28T16:56:23.347Z",
+      "radioCount": 356
+    },
+    {
+      "id": 42,
+      "name": "Greece",
+      "code": "GR",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:23.870Z",
+      "updatedAt": "2025-12-28T16:56:23.870Z",
+      "radioCount": 1120
+    },
+    {
+      "id": 116,
+      "name": "Grenada",
+      "code": "GD",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:02:31.433Z",
+      "updatedAt": "2025-12-28T17:02:31.433Z",
+      "radioCount": 20
+    },
+    {
+      "id": 169,
+      "name": "Guadeloupe",
+      "code": "GP",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:13:42.913Z",
+      "updatedAt": "2025-12-28T18:13:42.913Z",
+      "radioCount": 11
+    },
+    {
+      "id": 162,
+      "name": "Guam",
+      "code": "GU",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:12:19.678Z",
+      "updatedAt": "2025-12-28T18:12:19.678Z",
+      "radioCount": 11
+    },
+    {
+      "id": 63,
+      "name": "Guatemala",
+      "code": "GT",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:34.592Z",
+      "updatedAt": "2025-12-28T16:56:34.592Z",
+      "radioCount": 840
+    },
+    {
+      "id": 207,
+      "name": "Guernsey, United Kingdom",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T20:00:04.450Z",
+      "updatedAt": "2025-12-28T20:00:04.450Z",
+      "radioCount": 2
+    },
+    {
+      "id": 127,
+      "name": "Guinea",
+      "code": "GN",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:03:20.022Z",
+      "updatedAt": "2025-12-28T17:03:20.022Z",
+      "radioCount": 10
+    },
+    {
+      "id": 182,
+      "name": "Guinea-Bissau",
+      "code": "GW",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:18:32.171Z",
+      "updatedAt": "2025-12-28T18:18:32.171Z",
+      "radioCount": 2
+    },
+    {
+      "id": 133,
+      "name": "Guyana",
+      "code": "GY",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:04:26.655Z",
+      "updatedAt": "2025-12-28T17:04:26.655Z",
+      "radioCount": 16
+    },
+    {
+      "id": 92,
+      "name": "Haiti",
+      "code": "HT",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:58.459Z",
+      "updatedAt": "2025-12-28T17:00:58.459Z",
+      "radioCount": 345
+    },
+    {
+      "id": 76,
+      "name": "Honduras",
+      "code": "HN",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:45.459Z",
+      "updatedAt": "2025-12-28T17:00:45.459Z",
+      "radioCount": 223
+    },
+    {
+      "id": 170,
+      "name": "Hong Kong",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:13:58.424Z",
+      "updatedAt": "2025-12-28T18:13:58.424Z",
+      "radioCount": 3
+    },
+    {
+      "id": 44,
+      "name": "Hungary",
+      "code": "HU",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:24.479Z",
+      "updatedAt": "2025-12-28T16:56:24.479Z",
+      "radioCount": 257
+    },
+    {
+      "id": 138,
+      "name": "Iceland",
+      "code": "IS",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:04:45.431Z",
+      "updatedAt": "2025-12-28T17:04:45.431Z",
+      "radioCount": 30
+    },
+    {
+      "id": 24,
+      "name": "India",
+      "code": "IN",
+      "useStateInCityName": true,
+      "createdAt": "2025-12-28T16:56:21.817Z",
+      "updatedAt": "2025-12-28T16:56:21.817Z",
+      "radioCount": 947
+    },
+    {
+      "id": 33,
+      "name": "Indonesia",
+      "code": "ID",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:22.649Z",
+      "updatedAt": "2025-12-28T16:56:22.649Z",
+      "radioCount": 852
+    },
+    {
+      "id": 121,
+      "name": "Iran",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:03:13.034Z",
+      "updatedAt": "2025-12-28T17:03:13.034Z",
+      "radioCount": 19
+    },
+    {
+      "id": 167,
+      "name": "Iraq",
+      "code": "IQ",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:13:29.317Z",
+      "updatedAt": "2025-12-28T18:13:29.317Z",
+      "radioCount": 25
+    },
+    {
+      "id": 90,
+      "name": "Ireland",
+      "code": "IE",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:57.248Z",
+      "updatedAt": "2025-12-28T17:00:57.248Z",
+      "radioCount": 241
+    },
+    {
+      "id": 1,
+      "name": "Israel",
+      "code": "IL",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:13:36.610Z",
+      "updatedAt": "2025-12-28T16:13:36.610Z",
+      "radioCount": 283
+    },
+    {
+      "id": 48,
+      "name": "Italy",
+      "code": "IT",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:27.782Z",
+      "updatedAt": "2025-12-28T16:56:27.782Z",
+      "radioCount": 1931
+    },
+    {
+      "id": 143,
+      "name": "Ivory Coast",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:10:14.546Z",
+      "updatedAt": "2025-12-28T18:10:14.546Z",
+      "radioCount": 22
+    },
+    {
+      "id": 38,
+      "name": "Jamaica",
+      "code": "JM",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:23.278Z",
+      "updatedAt": "2025-12-28T16:56:23.278Z",
+      "radioCount": 72
+    },
+    {
+      "id": 10,
+      "name": "Japan",
+      "code": "JP",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:36:25.617Z",
+      "updatedAt": "2025-12-28T16:36:25.617Z",
+      "radioCount": 146
+    },
+    {
+      "id": 113,
+      "name": "Jordan",
+      "code": "JO",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:02:22.357Z",
+      "updatedAt": "2025-12-28T17:02:22.357Z",
+      "radioCount": 30
+    },
+    {
+      "id": 81,
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:46.856Z",
+      "updatedAt": "2025-12-28T17:00:46.856Z",
+      "radioCount": 22
+    },
+    {
+      "id": 34,
+      "name": "Kenya",
+      "code": "KE",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:22.718Z",
+      "updatedAt": "2025-12-28T16:56:22.718Z",
+      "radioCount": 280
+    },
+    {
+      "id": 190,
+      "name": "Kiribati",
+      "code": "KI",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:22:14.333Z",
+      "updatedAt": "2025-12-28T18:22:14.333Z",
+      "radioCount": 1
+    },
+    {
+      "id": 189,
+      "name": "Kosovo",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:21:03.800Z",
+      "updatedAt": "2025-12-28T18:21:03.800Z",
+      "radioCount": 29
+    },
+    {
+      "id": 132,
+      "name": "Kuwait",
+      "code": "KW",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:04:24.825Z",
+      "updatedAt": "2025-12-28T17:04:24.825Z",
+      "radioCount": 132
+    },
+    {
+      "id": 153,
+      "name": "Kyrgyzstan",
+      "code": "KG",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:11:31.782Z",
+      "updatedAt": "2025-12-28T18:11:31.782Z",
+      "radioCount": 8
+    },
+    {
+      "id": 126,
+      "name": "Laos",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:03:19.569Z",
+      "updatedAt": "2025-12-28T17:03:19.569Z",
+      "radioCount": 3
+    },
+    {
+      "id": 85,
+      "name": "Latvia",
+      "code": "LV",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:51.311Z",
+      "updatedAt": "2025-12-28T17:00:51.311Z",
+      "radioCount": 91
+    },
+    {
+      "id": 100,
+      "name": "Lebanon",
+      "code": "LB",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:01:07.134Z",
+      "updatedAt": "2025-12-28T17:01:07.134Z",
+      "radioCount": 75
+    },
+    {
+      "id": 120,
+      "name": "Lesotho",
+      "code": "LS",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:02:49.173Z",
+      "updatedAt": "2025-12-28T17:02:49.173Z",
+      "radioCount": 16
+    },
+    {
+      "id": 107,
+      "name": "Lesser Antilles, France",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:01:16.385Z",
+      "updatedAt": "2025-12-28T17:01:16.385Z",
+      "radioCount": 67
+    },
+    {
+      "id": 174,
+      "name": "Liberia",
+      "code": "LR",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:14:54.979Z",
+      "updatedAt": "2025-12-28T18:14:54.979Z",
+      "radioCount": 6
+    },
+    {
+      "id": 137,
+      "name": "Libya",
+      "code": "LY",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:04:41.046Z",
+      "updatedAt": "2025-12-28T17:04:41.046Z",
+      "radioCount": 8
+    },
+    {
+      "id": 206,
+      "name": "Liechtenstein",
+      "code": "LI",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T19:49:35.383Z",
+      "updatedAt": "2025-12-28T19:49:35.383Z",
+      "radioCount": 3
+    },
+    {
+      "id": 79,
+      "name": "Lithuania",
+      "code": "LT",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:46.243Z",
+      "updatedAt": "2025-12-28T17:00:46.243Z",
+      "radioCount": 57
+    },
+    {
+      "id": 164,
+      "name": "Luxembourg",
+      "code": "LU",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:12:45.672Z",
+      "updatedAt": "2025-12-28T18:12:45.672Z",
+      "radioCount": 44
+    },
+    {
+      "id": 72,
+      "name": "Macedonia",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:44.523Z",
+      "updatedAt": "2025-12-28T17:00:44.523Z",
+      "radioCount": 65
+    },
+    {
+      "id": 159,
+      "name": "Madagascar",
+      "code": "MG",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:11:47.279Z",
+      "updatedAt": "2025-12-28T18:11:47.279Z",
+      "radioCount": 25
+    },
+    {
+      "id": 47,
+      "name": "Malawi",
+      "code": "MW",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:25.801Z",
+      "updatedAt": "2025-12-28T16:56:25.801Z",
+      "radioCount": 35
+    },
+    {
+      "id": 43,
+      "name": "Malaysia",
+      "code": "MY",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:24.163Z",
+      "updatedAt": "2025-12-28T16:56:24.163Z",
+      "radioCount": 125
+    },
+    {
+      "id": 150,
+      "name": "Maldives",
+      "code": "MV",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:11:01.323Z",
+      "updatedAt": "2025-12-28T18:11:01.323Z",
+      "radioCount": 1
+    },
+    {
+      "id": 98,
+      "name": "Mali",
+      "code": "ML",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:01:04.729Z",
+      "updatedAt": "2025-12-28T17:01:04.729Z",
+      "radioCount": 25
+    },
+    {
+      "id": 49,
+      "name": "Malta",
+      "code": "MT",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:27.845Z",
+      "updatedAt": "2025-12-28T16:56:27.845Z",
+      "radioCount": 54
+    },
+    {
+      "id": 199,
+      "name": "Mauritania",
+      "code": "MR",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:34:31.996Z",
+      "updatedAt": "2025-12-28T18:34:31.996Z",
+      "radioCount": 1
+    },
+    {
+      "id": 88,
+      "name": "Mauritius",
+      "code": "MU",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:55.247Z",
+      "updatedAt": "2025-12-28T17:00:55.247Z",
+      "radioCount": 37
+    },
+    {
+      "id": 46,
+      "name": "Mexico",
+      "code": "MX",
+      "useStateInCityName": true,
+      "createdAt": "2025-12-28T16:56:24.946Z",
+      "updatedAt": "2025-12-28T16:56:24.946Z",
+      "radioCount": 2932
+    },
+    {
+      "id": 184,
+      "name": "Micronesia",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:18:48.005Z",
+      "updatedAt": "2025-12-28T18:18:48.005Z",
+      "radioCount": 1
+    },
+    {
+      "id": 62,
+      "name": "Moldova",
+      "code": "MD",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:34.431Z",
+      "updatedAt": "2025-12-28T16:56:34.431Z",
+      "radioCount": 66
+    },
+    {
+      "id": 101,
+      "name": "Monaco",
+      "code": "MC",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:01:09.683Z",
+      "updatedAt": "2025-12-28T17:01:09.683Z",
+      "radioCount": 26
+    },
+    {
+      "id": 193,
+      "name": "Mongolia",
+      "code": "MN",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:23:16.371Z",
+      "updatedAt": "2025-12-28T18:23:16.371Z",
+      "radioCount": 4
+    },
+    {
+      "id": 51,
+      "name": "Montenegro",
+      "code": "ME",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:28.549Z",
+      "updatedAt": "2025-12-28T16:56:28.549Z",
+      "radioCount": 31
+    },
+    {
+      "id": 106,
+      "name": "Montserrat",
+      "code": "MS",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:01:16.357Z",
+      "updatedAt": "2025-12-28T17:01:16.357Z",
+      "radioCount": 1
+    },
+    {
+      "id": 41,
+      "name": "Morocco",
+      "code": "MA",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:23.531Z",
+      "updatedAt": "2025-12-28T16:56:23.531Z",
+      "radioCount": 61
+    },
+    {
+      "id": 147,
+      "name": "Mozambique",
+      "code": "MZ",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:10:47.062Z",
+      "updatedAt": "2025-12-28T18:10:47.062Z",
+      "radioCount": 22
+    },
+    {
+      "id": 179,
+      "name": "Myanmar",
+      "code": "MM",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:16:27.586Z",
+      "updatedAt": "2025-12-28T18:16:27.586Z",
+      "radioCount": 5
+    },
+    {
+      "id": 19,
+      "name": "Namibia",
+      "code": "NA",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:36:35.307Z",
+      "updatedAt": "2025-12-28T16:36:35.307Z",
+      "radioCount": 51
+    },
+    {
+      "id": 209,
+      "name": "Nauru",
+      "code": "NR",
+      "useStateInCityName": false,
+      "createdAt": "2026-01-11T22:24:21.366Z",
+      "updatedAt": "2026-01-11T22:24:21.366Z",
+      "radioCount": 1
+    },
+    {
+      "id": 110,
+      "name": "Nepal",
+      "code": "NP",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:02:17.860Z",
+      "updatedAt": "2025-12-28T17:02:17.860Z",
+      "radioCount": 92
+    },
+    {
+      "id": 12,
+      "name": "Netherlands",
+      "code": "NL",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:36:26.049Z",
+      "updatedAt": "2025-12-28T16:36:26.049Z",
+      "radioCount": 1282
+    },
+    {
+      "id": 111,
+      "name": "Netherlands Antilles",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:02:20.368Z",
+      "updatedAt": "2025-12-28T17:02:20.368Z",
+      "radioCount": 5
+    },
+    {
+      "id": 21,
+      "name": "New Zealand",
+      "code": "NZ",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:36:35.638Z",
+      "updatedAt": "2025-12-28T16:36:35.638Z",
+      "radioCount": 603
+    },
+    {
+      "id": 55,
+      "name": "Nicaragua",
+      "code": "NI",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:32.335Z",
+      "updatedAt": "2025-12-28T16:56:32.335Z",
+      "radioCount": 192
+    },
+    {
+      "id": 35,
+      "name": "Nigeria",
+      "code": "NG",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:22.781Z",
+      "updatedAt": "2025-12-28T16:56:22.781Z",
+      "radioCount": 554
+    },
+    {
+      "id": 27,
+      "name": "Northern Mariana Islands",
+      "code": "MP",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:21.944Z",
+      "updatedAt": "2025-12-28T16:56:21.944Z",
+      "radioCount": 3
+    },
+    {
+      "id": 205,
+      "name": "North Korea",
+      "code": "KP",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T19:20:36.181Z",
+      "updatedAt": "2025-12-28T19:20:36.181Z",
+      "radioCount": 1
+    },
+    {
+      "id": 69,
+      "name": "Norway",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:40.913Z",
+      "updatedAt": "2025-12-28T16:56:40.913Z",
+      "radioCount": 153
+    },
+    {
+      "id": 14,
+      "name": "Oman",
+      "code": "OM",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:36:27.501Z",
+      "updatedAt": "2025-12-28T16:36:27.501Z",
+      "radioCount": 11
+    },
+    {
+      "id": 87,
+      "name": "Pakistan",
+      "code": "PK",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:52.696Z",
+      "updatedAt": "2025-12-28T17:00:52.696Z",
+      "radioCount": 129
+    },
+    {
+      "id": 210,
+      "name": "Palau",
+      "code": "PW",
+      "useStateInCityName": false,
+      "createdAt": "2026-05-02T11:30:38.678Z",
+      "updatedAt": "2026-05-02T11:30:38.678Z",
+      "radioCount": 1
+    },
+    {
+      "id": 165,
+      "name": "Palestine",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:13:02.652Z",
+      "updatedAt": "2025-12-28T18:13:02.652Z",
+      "radioCount": 15
+    },
+    {
+      "id": 30,
+      "name": "Panama",
+      "code": "PA",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:22.339Z",
+      "updatedAt": "2025-12-28T16:56:22.339Z",
+      "radioCount": 156
+    },
+    {
+      "id": 177,
+      "name": "Papua New Guinea",
+      "code": "PG",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:16:08.555Z",
+      "updatedAt": "2025-12-28T18:16:08.555Z",
+      "radioCount": 8
+    },
+    {
+      "id": 97,
+      "name": "Paraguay",
+      "code": "PY",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:01:03.744Z",
+      "updatedAt": "2025-12-28T17:01:03.744Z",
+      "radioCount": 215
+    },
+    {
+      "id": 31,
+      "name": "Peru",
+      "code": "PE",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:22.577Z",
+      "updatedAt": "2025-12-28T16:56:22.577Z",
+      "radioCount": 874
+    },
+    {
+      "id": 61,
+      "name": "Philippines",
+      "code": "PH",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:34.339Z",
+      "updatedAt": "2025-12-28T16:56:34.339Z",
+      "radioCount": 634
+    },
+    {
+      "id": 7,
+      "name": "Poland",
+      "code": "PL",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:13:37.086Z",
+      "updatedAt": "2025-12-28T16:13:37.086Z",
+      "radioCount": 1491
+    },
+    {
+      "id": 65,
+      "name": "Portugal",
+      "code": "PT",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:35.517Z",
+      "updatedAt": "2025-12-28T16:56:35.517Z",
+      "radioCount": 482
+    },
+    {
+      "id": 102,
+      "name": "Puerto Rico",
+      "code": "PR",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:01:09.760Z",
+      "updatedAt": "2025-12-28T17:01:09.760Z",
+      "radioCount": 212
+    },
+    {
+      "id": 52,
+      "name": "Qatar",
+      "code": "QA",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:28.771Z",
+      "updatedAt": "2025-12-28T16:56:28.771Z",
+      "radioCount": 29
+    },
+    {
+      "id": 197,
+      "name": "Republic of San Marino",
+      "code": "SM",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:28:50.232Z",
+      "updatedAt": "2025-12-28T18:28:50.232Z",
+      "radioCount": 4
+    },
+    {
+      "id": 18,
+      "name": "Romania",
+      "code": "RO",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:36:32.263Z",
+      "updatedAt": "2025-12-28T16:36:32.263Z",
+      "radioCount": 605
+    },
+    {
+      "id": 3,
+      "name": "Russia",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:13:36.726Z",
+      "updatedAt": "2025-12-28T16:13:36.726Z",
+      "radioCount": 1983
+    },
+    {
+      "id": 59,
+      "name": "Rwanda",
+      "code": "RW",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:34.247Z",
+      "updatedAt": "2025-12-28T16:56:34.247Z",
+      "radioCount": 41
+    },
+    {
+      "id": 115,
+      "name": "Saint Kitts and Nevis",
+      "code": "KN",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:02:25.980Z",
+      "updatedAt": "2025-12-28T17:02:25.980Z",
+      "radioCount": 12
+    },
+    {
+      "id": 131,
+      "name": "Saint Lucia",
+      "code": "LC",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:03:41.177Z",
+      "updatedAt": "2025-12-28T17:03:41.177Z",
+      "radioCount": 22
+    },
+    {
+      "id": 148,
+      "name": "Saint Vincent and the Grenadines",
+      "code": "VC",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:10:59.103Z",
+      "updatedAt": "2025-12-28T18:10:59.103Z",
+      "radioCount": 20
+    },
+    {
+      "id": 203,
+      "name": "São Tomé and Príncipe",
+      "code": null,
+      "useStateInCityName": true,
+      "createdAt": "2025-12-28T18:47:08.943Z",
+      "updatedAt": "2025-12-28T18:47:08.943Z",
+      "radioCount": 3
+    },
+    {
+      "id": 37,
+      "name": "Saudi Arabia",
+      "code": "SA",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:23.030Z",
+      "updatedAt": "2025-12-28T16:56:23.030Z",
+      "radioCount": 31
+    },
+    {
+      "id": 89,
+      "name": "Senegal",
+      "code": "SN",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:56.268Z",
+      "updatedAt": "2025-12-28T17:00:56.268Z",
+      "radioCount": 48
+    },
+    {
+      "id": 50,
+      "name": "Serbia",
+      "code": "RS",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:27.906Z",
+      "updatedAt": "2025-12-28T16:56:27.906Z",
+      "radioCount": 501
+    },
+    {
+      "id": 139,
+      "name": "Seychelles",
+      "code": "SC",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:04:47.851Z",
+      "updatedAt": "2025-12-28T17:04:47.851Z",
+      "radioCount": 18
+    },
+    {
+      "id": 188,
+      "name": "Sierra Leone",
+      "code": "SL",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:20:27.831Z",
+      "updatedAt": "2025-12-28T18:20:27.831Z",
+      "radioCount": 11
+    },
+    {
+      "id": 40,
+      "name": "Singapore",
+      "code": "SG",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:23.493Z",
+      "updatedAt": "2025-12-28T16:56:23.493Z",
+      "radioCount": 32
+    },
+    {
+      "id": 200,
+      "name": "Sint Maarten",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:36:50.565Z",
+      "updatedAt": "2025-12-28T18:36:50.565Z",
+      "radioCount": 13
+    },
+    {
+      "id": 57,
+      "name": "Slovakia",
+      "code": "SK",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:33.257Z",
+      "updatedAt": "2025-12-28T16:56:33.257Z",
+      "radioCount": 78
+    },
+    {
+      "id": 104,
+      "name": "Slovenia",
+      "code": "SI",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:01:12.055Z",
+      "updatedAt": "2025-12-28T17:01:12.055Z",
+      "radioCount": 117
+    },
+    {
+      "id": 204,
+      "name": "Solomon Islands",
+      "code": "SB",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T19:09:37.591Z",
+      "updatedAt": "2025-12-28T19:09:37.591Z",
+      "radioCount": 1
+    },
+    {
+      "id": 196,
+      "name": "Somalia",
+      "code": "SO",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:27:57.837Z",
+      "updatedAt": "2025-12-28T18:27:57.837Z",
+      "radioCount": 4
+    },
+    {
+      "id": 11,
+      "name": "South Africa",
+      "code": "ZA",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:36:25.988Z",
+      "updatedAt": "2025-12-28T16:36:25.988Z",
+      "radioCount": 2014
+    },
+    {
+      "id": 129,
+      "name": "South Korea",
+      "code": "KR",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:03:33.054Z",
+      "updatedAt": "2025-12-28T17:03:33.054Z",
+      "radioCount": 171
+    },
+    {
+      "id": 29,
+      "name": "Spain",
+      "code": "ES",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:22.089Z",
+      "updatedAt": "2025-12-28T16:56:22.089Z",
+      "radioCount": 2354
+    },
+    {
+      "id": 66,
+      "name": "Sri Lanka",
+      "code": "LK",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:37.819Z",
+      "updatedAt": "2025-12-28T16:56:37.819Z",
+      "radioCount": 113
+    },
+    {
+      "id": 144,
+      "name": "Sudan",
+      "code": "SD",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:10:18.738Z",
+      "updatedAt": "2025-12-28T18:10:18.738Z",
+      "radioCount": 8
+    },
+    {
+      "id": 135,
+      "name": "Suriname",
+      "code": "SR",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:04:29.725Z",
+      "updatedAt": "2025-12-28T17:04:29.725Z",
+      "radioCount": 41
+    },
+    {
+      "id": 172,
+      "name": "Swaziland",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:14:19.990Z",
+      "updatedAt": "2025-12-28T18:14:19.990Z",
+      "radioCount": 5
+    },
+    {
+      "id": 83,
+      "name": "Sweden",
+      "code": "SE",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:49.380Z",
+      "updatedAt": "2025-12-28T17:00:49.380Z",
+      "radioCount": 237
+    },
+    {
+      "id": 23,
+      "name": "Switzerland",
+      "code": "CH",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:20.144Z",
+      "updatedAt": "2025-12-28T16:56:20.144Z",
+      "radioCount": 551
+    },
+    {
+      "id": 136,
+      "name": "Syria",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:04:39.394Z",
+      "updatedAt": "2025-12-28T17:04:39.394Z",
+      "radioCount": 19
+    },
+    {
+      "id": 45,
+      "name": "Taiwan",
+      "code": "TW",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:24.858Z",
+      "updatedAt": "2025-12-28T16:56:24.858Z",
+      "radioCount": 104
+    },
+    {
+      "id": 71,
+      "name": "Tajikistan",
+      "code": "TJ",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:44.177Z",
+      "updatedAt": "2025-12-28T17:00:44.177Z",
+      "radioCount": 4
+    },
+    {
+      "id": 78,
+      "name": "Tanzania",
+      "code": "TZ",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:45.821Z",
+      "updatedAt": "2025-12-28T17:00:45.821Z",
+      "radioCount": 103
+    },
+    {
+      "id": 70,
+      "name": "Thailand",
+      "code": "TH",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:43.240Z",
+      "updatedAt": "2025-12-28T16:56:43.240Z",
+      "radioCount": 236
+    },
+    {
+      "id": 178,
+      "name": "Togo",
+      "code": "TG",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:16:25.726Z",
+      "updatedAt": "2025-12-28T18:16:25.726Z",
+      "radioCount": 13
+    },
+    {
+      "id": 168,
+      "name": "Tonga",
+      "code": "TO",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:13:40.755Z",
+      "updatedAt": "2025-12-28T18:13:40.755Z",
+      "radioCount": 3
+    },
+    {
+      "id": 117,
+      "name": "Trinidad and Tobago",
+      "code": "TT",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:02:48.257Z",
+      "updatedAt": "2025-12-28T17:02:48.257Z",
+      "radioCount": 70
+    },
+    {
+      "id": 95,
+      "name": "Tunisia",
+      "code": "TN",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:01:02.209Z",
+      "updatedAt": "2025-12-28T17:01:02.209Z",
+      "radioCount": 48
+    },
+    {
+      "id": 58,
+      "name": "Turkey",
+      "code": "TR",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:33.555Z",
+      "updatedAt": "2025-12-28T16:56:33.555Z",
+      "radioCount": 945
+    },
+    {
+      "id": 60,
+      "name": "Uganda",
+      "code": "UG",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:34.275Z",
+      "updatedAt": "2025-12-28T16:56:34.275Z",
+      "radioCount": 275
+    },
+    {
+      "id": 25,
+      "name": "Ukraine",
+      "code": "UA",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:56:21.852Z",
+      "updatedAt": "2025-12-28T16:56:21.852Z",
+      "radioCount": 568
+    },
+    {
+      "id": 8,
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:13:37.151Z",
+      "updatedAt": "2025-12-28T16:13:37.151Z",
+      "radioCount": 1342
+    },
+    {
+      "id": 2,
+      "name": "United Kingdom",
+      "code": "GB",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T16:13:36.666Z",
+      "updatedAt": "2025-12-28T16:13:36.666Z",
+      "radioCount": 3366
+    },
+    {
+      "id": 6,
+      "name": "United States",
+      "code": "US",
+      "useStateInCityName": true,
+      "createdAt": "2025-12-28T16:13:36.957Z",
+      "updatedAt": "2025-12-28T16:13:36.957Z",
+      "radioCount": 25782
+    },
+    {
+      "id": 74,
+      "name": "Uruguay",
+      "code": "UY",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:45.216Z",
+      "updatedAt": "2025-12-28T17:00:45.216Z",
+      "radioCount": 314
+    },
+    {
+      "id": 105,
+      "name": "Uzbekistan",
+      "code": "UZ",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:01:13.076Z",
+      "updatedAt": "2025-12-28T17:01:13.076Z",
+      "radioCount": 7
+    },
+    {
+      "id": 195,
+      "name": "Vanuatu",
+      "code": "VU",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:23:25.074Z",
+      "updatedAt": "2025-12-28T18:23:25.074Z",
+      "radioCount": 5
+    },
+    {
+      "id": 173,
+      "name": "Vatican",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:14:22.126Z",
+      "updatedAt": "2025-12-28T18:14:22.126Z",
+      "radioCount": 29
+    },
+    {
+      "id": 75,
+      "name": "Venezuela",
+      "code": "VE",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:00:45.316Z",
+      "updatedAt": "2025-12-28T17:00:45.316Z",
+      "radioCount": 548
+    },
+    {
+      "id": 128,
+      "name": "Vietnam",
+      "code": "VN",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:03:21.592Z",
+      "updatedAt": "2025-12-28T17:03:21.592Z",
+      "radioCount": 34
+    },
+    {
+      "id": 114,
+      "name": "Virgin Islands (US)",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:02:25.736Z",
+      "updatedAt": "2025-12-28T17:02:25.736Z",
+      "radioCount": 30
+    },
+    {
+      "id": 151,
+      "name": "Web",
+      "code": null,
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:11:02.174Z",
+      "updatedAt": "2025-12-28T18:11:02.174Z",
+      "radioCount": 62
+    },
+    {
+      "id": 198,
+      "name": "Western Sahara",
+      "code": "EH",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T18:32:22.590Z",
+      "updatedAt": "2025-12-28T18:32:22.590Z",
+      "radioCount": 1
+    },
+    {
+      "id": 108,
+      "name": "Yemen",
+      "code": "YE",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:01:18.098Z",
+      "updatedAt": "2025-12-28T17:01:18.098Z",
+      "radioCount": 14
+    },
+    {
+      "id": 96,
+      "name": "Zambia",
+      "code": "ZM",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:01:02.434Z",
+      "updatedAt": "2025-12-28T17:01:02.434Z",
+      "radioCount": 76
+    },
+    {
+      "id": 109,
+      "name": "Zimbabwe",
+      "code": "ZW",
+      "useStateInCityName": false,
+      "createdAt": "2025-12-28T17:01:18.926Z",
+      "updatedAt": "2025-12-28T17:01:18.926Z",
+      "radioCount": 24
+    }
+  ]
+}

@@ -1,0 +1,771 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 110029,
+      "name": "La Bakana FM",
+      "slug": "La_Bakana_105.9",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/56/50/56507158466dd8f43f3894f092a94731.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "105.9",
+        "dialStripped": "1059"
+      },
+      "aliases": {
+        "cleanName": "la bakana",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Santiago de los Caballeros",
+        "countryName": "Dominican Republic",
+        "countryCode": "DO",
+        "locationText": "Santiago de los Caballeros, Dominican Republic",
+        "coordinates": {
+          "latitude": "18.9089743",
+          "longitude": "-70.2736287"
+        }
+      },
+      "genre": {
+        "text": "Community Entertainment News Talk",
+        "tags": []
+      },
+      "popularity": {
+        "global": 1290,
+        "byCountry": {
+          "us": 44,
+          "gb": 1,
+          "au": 0,
+          "de": 0,
+          "fr": 1,
+          "br": 0,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 5,
+          "cl": 0,
+          "co": 1,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 150309,
+          "url": "https://stream.zeno.fm/f3nffca3jsfuv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 150308,
+          "url": "http://stream.zeno.fm/f3nffca3jsfuv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 104569,
+      "name": "Radio Nueva Revelación Apocalipsis",
+      "slug": "Radio_Nueva_Revelacion_Apocalipsis",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/f6/9d/f69dc47208feec909f9e8985d3b0842c.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "nueva revelacion apocalipsis",
+        "alsoKnownAs": "Radio Nueva Revelacion Cbba"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Cochabamba",
+        "countryName": "Bolivia",
+        "countryCode": "BO",
+        "locationText": "Cochabamba, Cercado, Bolivia",
+        "coordinates": {
+          "latitude": "-17.3895000",
+          "longitude": "-66.1568000"
+        }
+      },
+      "genre": {
+        "text": "Christian Religious",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 1,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 1
+        }
+      },
+      "streams": [],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    },
+    {
+      "id": 26682,
+      "name": "Shorty Pee Radio",
+      "slug": "Shorty_Pee_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/89/f1/89f17c6cb35a9a689649996c26c49a92.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "shorty pee",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Clemson",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "Clemson, South Carolina, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Hip Hop Soul",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 41955,
+          "url": "http://ais-edge101-live365-dal02.cdnstream.com/a46178",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 41956,
+          "url": "https://streaming.live365.com/a46178",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 41957,
+          "url": "https://ais-edge101-live365-dal02.cdnstream.com/a46178",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 41954,
+          "url": "http://streaming.live365.com/a46178",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 326503,
+      "name": "Box 2 Radio - WBFI",
+      "slug": "WBFI",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/d9/c4/d9c41c339f5785adb9daeeeb696643fb.jpg",
+      "dial": {
+        "band": "FM",
+        "dial": "91.5 / 98.3",
+        "dialStripped": "915 / 983"
+      },
+      "aliases": {
+        "cleanName": "box 2 wbfi",
+        "alsoKnownAs": "Box 2 Radio - W252CW"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "McDaniels",
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": "McDaniels, Kentucky, United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Christian",
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 202846,
+          "url": "http://wbfifm.primcast.com:4578/;",
+          "isHttps": false,
+          "protocol": "shoutcast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 335164,
+      "name": "Radio Moda Sertanejo",
+      "slug": "Radio_Moda_Sertanejo_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/a4/62/a4621165ad0ca835349104b4aef38588.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "moda sertanejo",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "Brazil",
+        "countryCode": "BR",
+        "locationText": ", Brazil",
+        "coordinates": null
+      },
+      "genre": {
+        "text": "Brazilian Sertanejo",
+        "tags": []
+      },
+      "popularity": {
+        "global": 90,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 3,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 203771,
+          "url": "http://stream.zeno.fm/wyu3kwx2vc9uv",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 203772,
+          "url": "https://stream.zeno.fm/wyu3kwx2vc9uv",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "pt",
+          "name": "Portuguese"
+        }
+      ]
+    },
+    {
+      "id": 590659,
+      "name": "AngelAngel Music Radio",
+      "slug": "AngelAngel_Music_Radio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/b8/d0/b8d0685579b42807724d8ba68ecf3326.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "angelangel music",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": ", United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Adult",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 228959,
+          "url": "https://streaming.live365.com/a84915?player_id=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 228958,
+          "url": "http://streaming.live365.com/a84915?player_id=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 168978,
+      "name": "RADIO EARTH",
+      "slug": "RADIO_EARTH",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/95/e3/95e3da6f10090f01c69a9833e8a95129.png",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "earth",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": null,
+        "countryName": "United States",
+        "countryCode": "US",
+        "locationText": ", United States",
+        "coordinates": {
+          "latitude": "37.8034989",
+          "longitude": "-92.5169818"
+        }
+      },
+      "genre": {
+        "text": "Devotional World",
+        "tags": []
+      },
+      "popularity": {
+        "global": 0,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 168811,
+          "url": "http://streaming.live365.com/a40352?player_id=streema",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 168812,
+          "url": "https://streaming.live365.com/a40352?player_id=streema",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 128,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": []
+    },
+    {
+      "id": 209858,
+      "name": "Fresh Radio ",
+      "slug": "Fresh_Radio_12",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/be/2d/be2dd89ed2275a9f283e9b483da3cac7.png",
+      "dial": {
+        "band": "FM",
+        "dial": "105",
+        "dialStripped": "105"
+      },
+      "aliases": {
+        "cleanName": "fresh",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Chania",
+        "countryName": "Greece",
+        "countryCode": "GR",
+        "locationText": "Chania, Crete, Greece",
+        "coordinates": {
+          "latitude": "35.5112400",
+          "longitude": "24.0292100"
+        }
+      },
+      "genre": {
+        "text": null,
+        "tags": []
+      },
+      "popularity": {
+        "global": 30,
+        "byCountry": {
+          "us": 0,
+          "gb": 0,
+          "au": 0,
+          "de": 0,
+          "fr": 0,
+          "br": 0,
+          "es": 0,
+          "mx": 0,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 0,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 179728,
+          "url": "http://webradio.neatv.gr:8000/stream",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 88,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "el",
+          "name": "Greek"
+        }
+      ]
+    },
+    {
+      "id": 1734,
+      "name": "Indie Rock Radio",
+      "slug": "Indie_Rock_Radio_2",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/90/8b/908b476394e2fd9385ed0f7b4a8ad362.jpg",
+      "dial": {
+        "band": "Web",
+        "dial": null,
+        "dialStripped": null
+      },
+      "aliases": {
+        "cleanName": "indie rock",
+        "alsoKnownAs": null
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Montreal",
+        "countryName": "Canada",
+        "countryCode": "CA",
+        "locationText": "Montreal, Quebec, Canada",
+        "coordinates": {
+          "latitude": "46.9909847",
+          "longitude": "-87.5986915"
+        }
+      },
+      "genre": {
+        "text": "Alternative Classic Rock Indie",
+        "tags": []
+      },
+      "popularity": {
+        "global": 60,
+        "byCountry": {
+          "us": 1,
+          "gb": 0,
+          "au": 0,
+          "de": 1,
+          "fr": 0,
+          "br": 1,
+          "es": 0,
+          "mx": 1,
+          "jp": 0,
+          "in": 0,
+          "it": 0,
+          "ar": 0,
+          "ca": 1,
+          "cl": 0,
+          "co": 0,
+          "pe": 0
+        }
+      },
+      "streams": [
+        {
+          "id": 4589,
+          "url": "https://streaming.radio.co/sdf2a51a1c/listen",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        },
+        {
+          "id": 4588,
+          "url": "http://streaming.radio.co/sdf2a51a1c/listen",
+          "isHttps": false,
+          "protocol": "icecast",
+          "codec": "mp3",
+          "bitrate": 192,
+          "contentType": "audio/mpeg",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "en",
+          "name": "English"
+        }
+      ]
+    },
+    {
+      "id": 77549,
+      "name": "Radio Canela Sucumbíos",
+      "slug": "Radio_Canela_LagoAgrio",
+      "isActive": true,
+      "logo": "https://static-media.streema.com/media/cache/3f/94/3f94fda2c43775d05b4c7b232f3b62b8.png",
+      "dial": {
+        "band": "FM",
+        "dial": "94.5",
+        "dialStripped": "945"
+      },
+      "aliases": {
+        "cleanName": "canela sucumbios",
+        "alsoKnownAs": "Radio Canela Lago Agrio"
+      },
+      "location": {
+        "cityId": null,
+        "cityName": "Nueva Loja",
+        "countryName": "Ecuador",
+        "countryCode": "EC",
+        "locationText": "Nueva Loja, Ecuador",
+        "coordinates": {
+          "latitude": "0.0860000",
+          "longitude": "-76.8952800"
+        }
+      },
+      "genre": {
+        "text": "Latin Pop Spanish",
+        "tags": []
+      },
+      "popularity": {
+        "global": 900,
+        "byCountry": {
+          "us": 6,
+          "gb": 2,
+          "au": 1,
+          "de": 0,
+          "fr": 1,
+          "br": 1,
+          "es": 3,
+          "mx": 3,
+          "jp": 0,
+          "in": 0,
+          "it": 2,
+          "ar": 2,
+          "ca": 0,
+          "cl": 1,
+          "co": 2,
+          "pe": 1
+        }
+      },
+      "streams": [
+        {
+          "id": 121030,
+          "url": "http://canelaradio.makrodigital.com:9230/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 113,
+          "contentType": "audio/aacp",
+          "works": true
+        },
+        {
+          "id": 242373,
+          "url": "https://canelaradio.makrodigital.com:9230/stream",
+          "isHttps": true,
+          "protocol": "icecast",
+          "codec": "aac",
+          "bitrate": 103,
+          "contentType": "audio/aacp",
+          "works": true
+        }
+      ],
+      "languages": [
+        {
+          "code": "es",
+          "name": "Spanish"
+        }
+      ]
+    }
+  ]
+}

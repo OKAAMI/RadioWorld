@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -I \"https://unpkg.com/three-globe/example/img/\")",
+      "Bash(curl -s -I \"https://unpkg.com/three-globe@2.45.2/example/img/earth-blue-marble.jpg\")",
+      "Bash(curl -s -I \"https://cdn.sabernova.com/earth-map-2k.jpg\")"
+    ]
+  }
+}

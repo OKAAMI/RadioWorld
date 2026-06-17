@@ -1,0 +1,2221 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 22,
+      "name": "00s",
+      "slug": "00s",
+      "createdAt": "2025-12-28T13:57:05.824Z",
+      "updatedAt": "2025-12-28T13:57:05.824Z",
+      "radioCount": 551
+    },
+    {
+      "id": 178,
+      "name": "40s",
+      "slug": "40s",
+      "createdAt": "2025-12-28T14:58:50.378Z",
+      "updatedAt": "2025-12-28T14:58:50.378Z",
+      "radioCount": 67
+    },
+    {
+      "id": 115,
+      "name": "50s",
+      "slug": "50s",
+      "createdAt": "2025-12-28T13:57:36.914Z",
+      "updatedAt": "2025-12-28T13:57:36.914Z",
+      "radioCount": 211
+    },
+    {
+      "id": 62,
+      "name": "60s",
+      "slug": "60s",
+      "createdAt": "2025-12-28T13:57:12.379Z",
+      "updatedAt": "2025-12-28T13:57:12.379Z",
+      "radioCount": 661
+    },
+    {
+      "id": 30,
+      "name": "70s",
+      "slug": "70s",
+      "createdAt": "2025-12-28T13:57:08.337Z",
+      "updatedAt": "2025-12-28T13:57:08.337Z",
+      "radioCount": 1468
+    },
+    {
+      "id": 24,
+      "name": "80s",
+      "slug": "80s",
+      "createdAt": "2025-12-28T13:57:07.080Z",
+      "updatedAt": "2025-12-28T13:57:07.080Z",
+      "radioCount": 2967
+    },
+    {
+      "id": 25,
+      "name": "90s",
+      "slug": "90s",
+      "createdAt": "2025-12-28T13:57:07.084Z",
+      "updatedAt": "2025-12-28T13:57:07.084Z",
+      "radioCount": 2218
+    },
+    {
+      "id": 113,
+      "name": "AAA",
+      "slug": "aaa",
+      "createdAt": "2025-12-28T13:57:35.228Z",
+      "updatedAt": "2025-12-28T13:57:35.228Z",
+      "radioCount": 25
+    },
+    {
+      "id": 259,
+      "name": "Acid Jazz",
+      "slug": "acid_jazz",
+      "createdAt": "2025-12-28T18:10:50.207Z",
+      "updatedAt": "2025-12-28T18:10:50.207Z",
+      "radioCount": 0
+    },
+    {
+      "id": 96,
+      "name": "Acoustic",
+      "slug": "acoustic",
+      "createdAt": "2025-12-28T13:57:21.702Z",
+      "updatedAt": "2025-12-28T13:57:21.702Z",
+      "radioCount": 228
+    },
+    {
+      "id": 124,
+      "name": "Active Rock",
+      "slug": "active_rock",
+      "createdAt": "2025-12-28T13:57:42.456Z",
+      "updatedAt": "2025-12-28T13:57:42.456Z",
+      "radioCount": 15
+    },
+    {
+      "id": 123,
+      "name": "Adult",
+      "slug": "adult",
+      "createdAt": "2025-12-28T13:57:41.527Z",
+      "updatedAt": "2025-12-28T13:57:41.527Z",
+      "radioCount": 283
+    },
+    {
+      "id": 9,
+      "name": "Adult Contemporary",
+      "slug": "adult_contemporary",
+      "createdAt": "2025-12-28T13:57:04.755Z",
+      "updatedAt": "2025-12-28T13:57:04.755Z",
+      "radioCount": 7809
+    },
+    {
+      "id": 198,
+      "name": "African",
+      "slug": "african",
+      "createdAt": "2025-12-28T15:02:53.351Z",
+      "updatedAt": "2025-12-28T15:02:53.351Z",
+      "radioCount": 120
+    },
+    {
+      "id": 131,
+      "name": "Afrobeats",
+      "slug": "afrobeats",
+      "createdAt": "2025-12-28T13:57:57.942Z",
+      "updatedAt": "2025-12-28T13:57:57.942Z",
+      "radioCount": 1247
+    },
+    {
+      "id": 143,
+      "name": "Afropop",
+      "slug": "afropop",
+      "createdAt": "2025-12-28T13:58:21.504Z",
+      "updatedAt": "2025-12-28T13:58:21.504Z",
+      "radioCount": 200
+    },
+    {
+      "id": 260,
+      "name": "Agriculture",
+      "slug": "agriculture",
+      "createdAt": "2025-12-28T18:12:14.054Z",
+      "updatedAt": "2025-12-28T18:12:14.054Z",
+      "radioCount": 5
+    },
+    {
+      "id": 23,
+      "name": "Alternative",
+      "slug": "alternative",
+      "createdAt": "2025-12-28T13:57:06.616Z",
+      "updatedAt": "2025-12-28T13:57:06.616Z",
+      "radioCount": 2716
+    },
+    {
+      "id": 108,
+      "name": "Ambient",
+      "slug": "ambient",
+      "createdAt": "2025-12-28T13:57:25.887Z",
+      "updatedAt": "2025-12-28T13:57:25.887Z",
+      "radioCount": 805
+    },
+    {
+      "id": 90,
+      "name": "Americana",
+      "slug": "americana",
+      "createdAt": "2025-12-28T13:57:17.535Z",
+      "updatedAt": "2025-12-28T13:57:17.535Z",
+      "radioCount": 245
+    },
+    {
+      "id": 57,
+      "name": "Arabic",
+      "slug": "arabic",
+      "createdAt": "2025-12-28T13:57:11.739Z",
+      "updatedAt": "2025-12-28T13:57:11.739Z",
+      "radioCount": 508
+    },
+    {
+      "id": 100,
+      "name": "Art",
+      "slug": "art",
+      "createdAt": "2025-12-28T13:57:23.047Z",
+      "updatedAt": "2025-12-28T13:57:23.047Z",
+      "radioCount": 241
+    },
+    {
+      "id": 50,
+      "name": "Asian",
+      "slug": "asian",
+      "createdAt": "2025-12-28T13:57:10.330Z",
+      "updatedAt": "2025-12-28T13:57:10.330Z",
+      "radioCount": 468
+    },
+    {
+      "id": 55,
+      "name": "Bachata",
+      "slug": "bachata",
+      "createdAt": "2025-12-28T13:57:11.389Z",
+      "updatedAt": "2025-12-28T13:57:11.389Z",
+      "radioCount": 281
+    },
+    {
+      "id": 241,
+      "name": "Balada",
+      "slug": "balada",
+      "createdAt": "2025-12-28T15:23:10.338Z",
+      "updatedAt": "2025-12-28T15:23:10.338Z",
+      "radioCount": 14
+    },
+    {
+      "id": 112,
+      "name": "Balkan",
+      "slug": "balkan",
+      "createdAt": "2025-12-28T13:57:26.684Z",
+      "updatedAt": "2025-12-28T13:57:26.684Z",
+      "radioCount": 113
+    },
+    {
+      "id": 240,
+      "name": "Ballad",
+      "slug": "ballad",
+      "createdAt": "2025-12-28T15:22:52.338Z",
+      "updatedAt": "2025-12-28T15:22:52.338Z",
+      "radioCount": 0
+    },
+    {
+      "id": 103,
+      "name": "Baroque",
+      "slug": "baroque",
+      "createdAt": "2025-12-28T13:57:24.989Z",
+      "updatedAt": "2025-12-28T13:57:24.989Z",
+      "radioCount": 42
+    },
+    {
+      "id": 105,
+      "name": "Bhangra",
+      "slug": "bhangra",
+      "createdAt": "2025-12-28T13:57:25.032Z",
+      "updatedAt": "2025-12-28T13:57:25.032Z",
+      "radioCount": 933
+    },
+    {
+      "id": 168,
+      "name": "Big Band",
+      "slug": "big_band",
+      "createdAt": "2025-12-28T13:59:13.201Z",
+      "updatedAt": "2025-12-28T13:59:13.201Z",
+      "radioCount": 9
+    },
+    {
+      "id": 122,
+      "name": "Bluegrass",
+      "slug": "bluegrass",
+      "createdAt": "2025-12-28T13:57:40.742Z",
+      "updatedAt": "2025-12-28T13:57:40.742Z",
+      "radioCount": 468
+    },
+    {
+      "id": 94,
+      "name": "Blues",
+      "slug": "blues",
+      "createdAt": "2025-12-28T13:57:18.313Z",
+      "updatedAt": "2025-12-28T13:57:18.313Z",
+      "radioCount": 1079
+    },
+    {
+      "id": 272,
+      "name": "Bolero",
+      "slug": "bolero",
+      "createdAt": "2025-12-28T19:51:50.505Z",
+      "updatedAt": "2025-12-28T19:51:50.505Z",
+      "radioCount": 0
+    },
+    {
+      "id": 111,
+      "name": "Bollywood",
+      "slug": "bollywood",
+      "createdAt": "2025-12-28T13:57:26.592Z",
+      "updatedAt": "2025-12-28T13:57:26.592Z",
+      "radioCount": 503
+    },
+    {
+      "id": 152,
+      "name": "Bossa Nova",
+      "slug": "bossa_nova",
+      "createdAt": "2025-12-28T13:58:46.157Z",
+      "updatedAt": "2025-12-28T13:58:46.157Z",
+      "radioCount": 86
+    },
+    {
+      "id": 261,
+      "name": "Brass Band",
+      "slug": "brass_band",
+      "createdAt": "2025-12-28T18:22:31.258Z",
+      "updatedAt": "2025-12-28T18:22:31.258Z",
+      "radioCount": 1
+    },
+    {
+      "id": 2,
+      "name": "Brazilian",
+      "slug": "brazilian",
+      "createdAt": "2025-12-28T13:57:04.509Z",
+      "updatedAt": "2025-12-28T13:57:04.509Z",
+      "radioCount": 4357
+    },
+    {
+      "id": 217,
+      "name": "Breaks",
+      "slug": "breaks",
+      "createdAt": "2025-12-28T15:06:50.746Z",
+      "updatedAt": "2025-12-28T15:06:50.746Z",
+      "radioCount": 0
+    },
+    {
+      "id": 236,
+      "name": "Buddhist",
+      "slug": "buddhist",
+      "createdAt": "2025-12-28T15:14:43.650Z",
+      "updatedAt": "2025-12-28T15:14:43.650Z",
+      "radioCount": 12
+    },
+    {
+      "id": 134,
+      "name": "Business",
+      "slug": "business",
+      "createdAt": "2025-12-28T13:58:05.111Z",
+      "updatedAt": "2025-12-28T13:58:05.111Z",
+      "radioCount": 225
+    },
+    {
+      "id": 232,
+      "name": "Cajun",
+      "slug": "cajun",
+      "createdAt": "2025-12-28T15:12:46.370Z",
+      "updatedAt": "2025-12-28T15:12:46.370Z",
+      "radioCount": 1
+    },
+    {
+      "id": 139,
+      "name": "Calypso",
+      "slug": "calypso",
+      "createdAt": "2025-12-28T13:58:08.562Z",
+      "updatedAt": "2025-12-28T13:58:08.562Z",
+      "radioCount": 61
+    },
+    {
+      "id": 107,
+      "name": "Caribbean",
+      "slug": "caribbean",
+      "createdAt": "2025-12-28T13:57:25.861Z",
+      "updatedAt": "2025-12-28T13:57:25.861Z",
+      "radioCount": 536
+    },
+    {
+      "id": 91,
+      "name": "Catholic",
+      "slug": "catholic",
+      "createdAt": "2025-12-28T13:57:17.569Z",
+      "updatedAt": "2025-12-28T13:57:17.569Z",
+      "radioCount": 132
+    },
+    {
+      "id": 128,
+      "name": "Celtic",
+      "slug": "celtic",
+      "createdAt": "2025-12-28T13:57:48.733Z",
+      "updatedAt": "2025-12-28T13:57:48.733Z",
+      "radioCount": 106
+    },
+    {
+      "id": 104,
+      "name": "Chamber Music",
+      "slug": "chamber_music",
+      "createdAt": "2025-12-28T13:57:24.994Z",
+      "updatedAt": "2025-12-28T13:57:24.994Z",
+      "radioCount": 20
+    },
+    {
+      "id": 254,
+      "name": "Chansons Françaises",
+      "slug": "chansons_franaises",
+      "createdAt": "2025-12-28T16:03:09.318Z",
+      "updatedAt": "2025-12-28T16:03:09.318Z",
+      "radioCount": 0
+    },
+    {
+      "id": 68,
+      "name": "Children & Family",
+      "slug": "children_family",
+      "createdAt": "2025-12-28T13:57:13.051Z",
+      "updatedAt": "2025-12-28T13:57:13.051Z",
+      "radioCount": 847
+    },
+    {
+      "id": 256,
+      "name": "Childrens",
+      "slug": "childrens",
+      "createdAt": "2025-12-28T16:56:30.813Z",
+      "updatedAt": "2025-12-28T16:56:30.813Z",
+      "radioCount": 26
+    },
+    {
+      "id": 239,
+      "name": "Children's Family",
+      "slug": "childrens_family",
+      "createdAt": "2025-12-28T15:19:25.139Z",
+      "updatedAt": "2025-12-28T15:19:25.139Z",
+      "radioCount": 6
+    },
+    {
+      "id": 70,
+      "name": "Chillout",
+      "slug": "chillout",
+      "createdAt": "2025-12-28T13:57:14.148Z",
+      "updatedAt": "2025-12-28T13:57:14.148Z",
+      "radioCount": 817
+    },
+    {
+      "id": 98,
+      "name": "Chinese",
+      "slug": "chinese",
+      "createdAt": "2025-12-28T13:57:22.699Z",
+      "updatedAt": "2025-12-28T13:57:22.699Z",
+      "radioCount": 235
+    },
+    {
+      "id": 26,
+      "name": "Christian",
+      "slug": "christian",
+      "createdAt": "2025-12-28T13:57:07.978Z",
+      "updatedAt": "2025-12-28T13:57:07.978Z",
+      "radioCount": 8450
+    },
+    {
+      "id": 56,
+      "name": "Christian Contemporary",
+      "slug": "christian_contemporary",
+      "createdAt": "2025-12-28T13:57:11.596Z",
+      "updatedAt": "2025-12-28T13:57:11.596Z",
+      "radioCount": 105
+    },
+    {
+      "id": 215,
+      "name": "Christian Rock",
+      "slug": "christian_rock",
+      "createdAt": "2025-12-28T15:06:17.727Z",
+      "updatedAt": "2025-12-28T15:06:17.727Z",
+      "radioCount": 7
+    },
+    {
+      "id": 83,
+      "name": "Christmas",
+      "slug": "christmas",
+      "createdAt": "2025-12-28T13:57:16.155Z",
+      "updatedAt": "2025-12-28T13:57:16.155Z",
+      "radioCount": 632
+    },
+    {
+      "id": 277,
+      "name": "Cinematic",
+      "slug": "cinematic",
+      "createdAt": "2026-03-03T07:06:39.154Z",
+      "updatedAt": "2026-03-03T07:06:39.154Z",
+      "radioCount": 0
+    },
+    {
+      "id": 38,
+      "name": "Classical",
+      "slug": "classical",
+      "createdAt": "2025-12-28T13:57:08.964Z",
+      "updatedAt": "2025-12-28T13:57:08.964Z",
+      "radioCount": 1455
+    },
+    {
+      "id": 77,
+      "name": "Classic Hits",
+      "slug": "classic_hits",
+      "createdAt": "2025-12-28T13:57:14.803Z",
+      "updatedAt": "2025-12-28T13:57:14.803Z",
+      "radioCount": 782
+    },
+    {
+      "id": 31,
+      "name": "Classic Rock",
+      "slug": "classic_rock",
+      "createdAt": "2025-12-28T13:57:08.368Z",
+      "updatedAt": "2025-12-28T13:57:08.368Z",
+      "radioCount": 5432
+    },
+    {
+      "id": 102,
+      "name": "Classics",
+      "slug": "classics",
+      "createdAt": "2025-12-28T13:57:23.705Z",
+      "updatedAt": "2025-12-28T13:57:23.705Z",
+      "radioCount": 425
+    },
+    {
+      "id": 213,
+      "name": "Club",
+      "slug": "club",
+      "createdAt": "2025-12-28T15:05:59.209Z",
+      "updatedAt": "2025-12-28T15:05:59.209Z",
+      "radioCount": 12
+    },
+    {
+      "id": 69,
+      "name": "College",
+      "slug": "college",
+      "createdAt": "2025-12-28T13:57:13.314Z",
+      "updatedAt": "2025-12-28T13:57:13.314Z",
+      "radioCount": 1535
+    },
+    {
+      "id": 95,
+      "name": "Comedy",
+      "slug": "comedy",
+      "createdAt": "2025-12-28T13:57:20.504Z",
+      "updatedAt": "2025-12-28T13:57:20.504Z",
+      "radioCount": 580
+    },
+    {
+      "id": 59,
+      "name": "Community",
+      "slug": "community",
+      "createdAt": "2025-12-28T13:57:11.925Z",
+      "updatedAt": "2025-12-28T13:57:11.925Z",
+      "radioCount": 4860
+    },
+    {
+      "id": 175,
+      "name": "Contemporary Christian",
+      "slug": "contemporary_christian",
+      "createdAt": "2025-12-28T13:59:25.671Z",
+      "updatedAt": "2025-12-28T13:59:25.671Z",
+      "radioCount": 72
+    },
+    {
+      "id": 273,
+      "name": "Contemporary Classical ",
+      "slug": "contemporary_classical",
+      "createdAt": "2025-12-28T20:09:45.742Z",
+      "updatedAt": "2025-12-28T20:09:45.742Z",
+      "radioCount": 0
+    },
+    {
+      "id": 3,
+      "name": "Country",
+      "slug": "country",
+      "createdAt": "2025-12-28T13:57:04.514Z",
+      "updatedAt": "2025-12-28T13:57:04.514Z",
+      "radioCount": 3926
+    },
+    {
+      "id": 40,
+      "name": "Culture",
+      "slug": "culture",
+      "createdAt": "2025-12-28T13:57:09.038Z",
+      "updatedAt": "2025-12-28T13:57:09.038Z",
+      "radioCount": 1702
+    },
+    {
+      "id": 67,
+      "name": "Cumbia",
+      "slug": "cumbia",
+      "createdAt": "2025-12-28T13:57:12.842Z",
+      "updatedAt": "2025-12-28T13:57:12.842Z",
+      "radioCount": 614
+    },
+    {
+      "id": 142,
+      "name": "Current Affairs",
+      "slug": "current_affairs",
+      "createdAt": "2025-12-28T13:58:18.898Z",
+      "updatedAt": "2025-12-28T13:58:18.898Z",
+      "radioCount": 103
+    },
+    {
+      "id": 18,
+      "name": "Dance",
+      "slug": "dance",
+      "createdAt": "2025-12-28T13:57:05.618Z",
+      "updatedAt": "2025-12-28T13:57:05.618Z",
+      "radioCount": 6011
+    },
+    {
+      "id": 129,
+      "name": "Dancehall",
+      "slug": "dancehall",
+      "createdAt": "2025-12-28T13:57:48.877Z",
+      "updatedAt": "2025-12-28T13:57:48.877Z",
+      "radioCount": 289
+    },
+    {
+      "id": 214,
+      "name": "Dance Hits",
+      "slug": "dance_hits",
+      "createdAt": "2025-12-28T15:05:59.317Z",
+      "updatedAt": "2025-12-28T15:05:59.317Z",
+      "radioCount": 1
+    },
+    {
+      "id": 71,
+      "name": "Deep House",
+      "slug": "deep_house",
+      "createdAt": "2025-12-28T13:57:14.151Z",
+      "updatedAt": "2025-12-28T13:57:14.151Z",
+      "radioCount": 371
+    },
+    {
+      "id": 153,
+      "name": "Devotional",
+      "slug": "devotional",
+      "createdAt": "2025-12-28T13:58:46.861Z",
+      "updatedAt": "2025-12-28T13:58:46.861Z",
+      "radioCount": 487
+    },
+    {
+      "id": 65,
+      "name": "Disco",
+      "slug": "disco",
+      "createdAt": "2025-12-28T13:57:12.675Z",
+      "updatedAt": "2025-12-28T13:57:12.675Z",
+      "radioCount": 40
+    },
+    {
+      "id": 264,
+      "name": "DJ",
+      "slug": "dj",
+      "createdAt": "2025-12-28T18:35:57.745Z",
+      "updatedAt": "2025-12-28T18:35:57.745Z",
+      "radioCount": 0
+    },
+    {
+      "id": 72,
+      "name": "Downtempo",
+      "slug": "downtempo",
+      "createdAt": "2025-12-28T13:57:14.154Z",
+      "updatedAt": "2025-12-28T13:57:14.154Z",
+      "radioCount": 191
+    },
+    {
+      "id": 184,
+      "name": "Drama",
+      "slug": "drama",
+      "createdAt": "2025-12-28T15:00:28.915Z",
+      "updatedAt": "2025-12-28T15:00:28.915Z",
+      "radioCount": 0
+    },
+    {
+      "id": 157,
+      "name": "Drum and Bass",
+      "slug": "drum_and_bass",
+      "createdAt": "2025-12-28T13:58:51.308Z",
+      "updatedAt": "2025-12-28T13:58:51.308Z",
+      "radioCount": 232
+    },
+    {
+      "id": 177,
+      "name": "Dubstep",
+      "slug": "dubstep",
+      "createdAt": "2025-12-28T13:59:31.914Z",
+      "updatedAt": "2025-12-28T13:59:31.914Z",
+      "radioCount": 165
+    },
+    {
+      "id": 164,
+      "name": "Easy Listening",
+      "slug": "easy_listening",
+      "createdAt": "2025-12-28T13:59:03.506Z",
+      "updatedAt": "2025-12-28T13:59:03.506Z",
+      "radioCount": 105
+    },
+    {
+      "id": 263,
+      "name": "Eclectic",
+      "slug": "eclectic",
+      "createdAt": "2025-12-28T18:33:15.923Z",
+      "updatedAt": "2025-12-28T18:33:15.923Z",
+      "radioCount": 1
+    },
+    {
+      "id": 202,
+      "name": "Eclética",
+      "slug": "ecltica",
+      "createdAt": "2025-12-28T15:03:23.590Z",
+      "updatedAt": "2025-12-28T15:03:23.590Z",
+      "radioCount": 122
+    },
+    {
+      "id": 148,
+      "name": "EDM",
+      "slug": "edm",
+      "createdAt": "2025-12-28T13:58:30.123Z",
+      "updatedAt": "2025-12-28T13:58:30.123Z",
+      "radioCount": 1
+    },
+    {
+      "id": 79,
+      "name": "Education",
+      "slug": "education",
+      "createdAt": "2025-12-28T13:57:15.516Z",
+      "updatedAt": "2025-12-28T13:57:15.516Z",
+      "radioCount": 2624
+    },
+    {
+      "id": 51,
+      "name": "Electro",
+      "slug": "electro",
+      "createdAt": "2025-12-28T13:57:10.851Z",
+      "updatedAt": "2025-12-28T13:57:10.851Z",
+      "radioCount": 739
+    },
+    {
+      "id": 42,
+      "name": "Electronic",
+      "slug": "electronic",
+      "createdAt": "2025-12-28T13:57:09.175Z",
+      "updatedAt": "2025-12-28T13:57:09.175Z",
+      "radioCount": 2588
+    },
+    {
+      "id": 149,
+      "name": "Electronica",
+      "slug": "electronica",
+      "createdAt": "2025-12-28T13:58:30.134Z",
+      "updatedAt": "2025-12-28T13:58:30.134Z",
+      "radioCount": 14
+    },
+    {
+      "id": 247,
+      "name": "Emergency & Public Safety",
+      "slug": "emergency_public_safety",
+      "createdAt": "2025-12-28T15:27:47.188Z",
+      "updatedAt": "2025-12-28T15:27:47.188Z",
+      "radioCount": 13
+    },
+    {
+      "id": 207,
+      "name": "Emo",
+      "slug": "emo",
+      "createdAt": "2025-12-28T15:04:02.698Z",
+      "updatedAt": "2025-12-28T15:04:02.698Z",
+      "radioCount": 0
+    },
+    {
+      "id": 243,
+      "name": "English",
+      "slug": "english",
+      "createdAt": "2025-12-28T15:23:27.230Z",
+      "updatedAt": "2025-12-28T15:23:27.230Z",
+      "radioCount": 4
+    },
+    {
+      "id": 36,
+      "name": "Entertainment",
+      "slug": "entertainment",
+      "createdAt": "2025-12-28T13:57:08.665Z",
+      "updatedAt": "2025-12-28T13:57:08.665Z",
+      "radioCount": 6566
+    },
+    {
+      "id": 229,
+      "name": "Ethnic",
+      "slug": "ethnic",
+      "createdAt": "2025-12-28T15:11:57.206Z",
+      "updatedAt": "2025-12-28T15:11:57.206Z",
+      "radioCount": 1
+    },
+    {
+      "id": 49,
+      "name": "Europe",
+      "slug": "europe",
+      "createdAt": "2025-12-28T13:57:09.889Z",
+      "updatedAt": "2025-12-28T13:57:09.889Z",
+      "radioCount": 1654
+    },
+    {
+      "id": 191,
+      "name": "Experimental",
+      "slug": "experimental",
+      "createdAt": "2025-12-28T15:02:13.324Z",
+      "updatedAt": "2025-12-28T15:02:13.324Z",
+      "radioCount": 1
+    },
+    {
+      "id": 257,
+      "name": "Family",
+      "slug": "family",
+      "createdAt": "2025-12-28T16:56:32.093Z",
+      "updatedAt": "2025-12-28T16:56:32.093Z",
+      "radioCount": 1
+    },
+    {
+      "id": 251,
+      "name": "Filipino",
+      "slug": "filipino",
+      "createdAt": "2025-12-28T16:00:20.596Z",
+      "updatedAt": "2025-12-28T16:00:20.596Z",
+      "radioCount": 5
+    },
+    {
+      "id": 145,
+      "name": "Financial",
+      "slug": "financial",
+      "createdAt": "2025-12-28T13:58:24.436Z",
+      "updatedAt": "2025-12-28T13:58:24.436Z",
+      "radioCount": 0
+    },
+    {
+      "id": 130,
+      "name": "Flamenco",
+      "slug": "flamenco",
+      "createdAt": "2025-12-28T13:57:54.846Z",
+      "updatedAt": "2025-12-28T13:57:54.846Z",
+      "radioCount": 29
+    },
+    {
+      "id": 21,
+      "name": "Folk",
+      "slug": "folk",
+      "createdAt": "2025-12-28T13:57:05.763Z",
+      "updatedAt": "2025-12-28T13:57:05.763Z",
+      "radioCount": 3480
+    },
+    {
+      "id": 255,
+      "name": "Forró",
+      "slug": "forr",
+      "createdAt": "2025-12-28T16:04:49.524Z",
+      "updatedAt": "2025-12-28T16:04:49.524Z",
+      "radioCount": 13
+    },
+    {
+      "id": 17,
+      "name": "French",
+      "slug": "french",
+      "createdAt": "2025-12-28T13:57:05.508Z",
+      "updatedAt": "2025-12-28T13:57:05.508Z",
+      "radioCount": 1361
+    },
+    {
+      "id": 87,
+      "name": "Funk",
+      "slug": "funk",
+      "createdAt": "2025-12-28T13:57:16.959Z",
+      "updatedAt": "2025-12-28T13:57:16.959Z",
+      "radioCount": 787
+    },
+    {
+      "id": 194,
+      "name": "Gabber",
+      "slug": "gabber",
+      "createdAt": "2025-12-28T15:02:15.872Z",
+      "updatedAt": "2025-12-28T15:02:15.872Z",
+      "radioCount": 0
+    },
+    {
+      "id": 267,
+      "name": "Gaming",
+      "slug": "gaming",
+      "createdAt": "2025-12-28T18:53:23.208Z",
+      "updatedAt": "2025-12-28T18:53:23.208Z",
+      "radioCount": 1
+    },
+    {
+      "id": 126,
+      "name": "Garage",
+      "slug": "garage",
+      "createdAt": "2025-12-28T13:57:46.307Z",
+      "updatedAt": "2025-12-28T13:57:46.307Z",
+      "radioCount": 112
+    },
+    {
+      "id": 179,
+      "name": "Garbage",
+      "slug": "garbage",
+      "createdAt": "2025-12-28T14:58:53.345Z",
+      "updatedAt": "2025-12-28T14:58:53.345Z",
+      "radioCount": 0
+    },
+    {
+      "id": 121,
+      "name": "Glam",
+      "slug": "glam",
+      "createdAt": "2025-12-28T13:57:39.499Z",
+      "updatedAt": "2025-12-28T13:57:39.499Z",
+      "radioCount": 25
+    },
+    {
+      "id": 195,
+      "name": "Goa",
+      "slug": "goa",
+      "createdAt": "2025-12-28T15:02:15.926Z",
+      "updatedAt": "2025-12-28T15:02:15.926Z",
+      "radioCount": 13
+    },
+    {
+      "id": 41,
+      "name": "Gospel",
+      "slug": "gospel",
+      "createdAt": "2025-12-28T13:57:09.151Z",
+      "updatedAt": "2025-12-28T13:57:09.151Z",
+      "radioCount": 4368
+    },
+    {
+      "id": 245,
+      "name": "Gospel Pop",
+      "slug": "gospel_pop",
+      "createdAt": "2025-12-28T15:26:18.184Z",
+      "updatedAt": "2025-12-28T15:26:18.184Z",
+      "radioCount": 1
+    },
+    {
+      "id": 246,
+      "name": "Gospel Rock",
+      "slug": "gospel_rock",
+      "createdAt": "2025-12-28T15:26:18.187Z",
+      "updatedAt": "2025-12-28T15:26:18.187Z",
+      "radioCount": 1
+    },
+    {
+      "id": 204,
+      "name": "Gothic",
+      "slug": "gothic",
+      "createdAt": "2025-12-28T15:03:48.473Z",
+      "updatedAt": "2025-12-28T15:03:48.473Z",
+      "radioCount": 0
+    },
+    {
+      "id": 230,
+      "name": "Government",
+      "slug": "government",
+      "createdAt": "2025-12-28T15:12:39.376Z",
+      "updatedAt": "2025-12-28T15:12:39.376Z",
+      "radioCount": 2
+    },
+    {
+      "id": 16,
+      "name": "Greek",
+      "slug": "greek",
+      "createdAt": "2025-12-28T13:57:05.454Z",
+      "updatedAt": "2025-12-28T13:57:05.454Z",
+      "radioCount": 391
+    },
+    {
+      "id": 238,
+      "name": "Groove",
+      "slug": "groove",
+      "createdAt": "2025-12-28T15:16:45.200Z",
+      "updatedAt": "2025-12-28T15:16:45.200Z",
+      "radioCount": 0
+    },
+    {
+      "id": 119,
+      "name": "Grunge",
+      "slug": "grunge",
+      "createdAt": "2025-12-28T13:57:39.145Z",
+      "updatedAt": "2025-12-28T13:57:39.145Z",
+      "radioCount": 65
+    },
+    {
+      "id": 169,
+      "name": "Grupera",
+      "slug": "grupera",
+      "createdAt": "2025-12-28T13:59:15.529Z",
+      "updatedAt": "2025-12-28T13:59:15.529Z",
+      "radioCount": 176
+    },
+    {
+      "id": 183,
+      "name": "Guitar",
+      "slug": "guitar",
+      "createdAt": "2025-12-28T15:00:22.219Z",
+      "updatedAt": "2025-12-28T15:00:22.219Z",
+      "radioCount": 1
+    },
+    {
+      "id": 206,
+      "name": "Halloween",
+      "slug": "halloween",
+      "createdAt": "2025-12-28T15:04:00.930Z",
+      "updatedAt": "2025-12-28T15:04:00.930Z",
+      "radioCount": 22
+    },
+    {
+      "id": 132,
+      "name": "Hardcore",
+      "slug": "hardcore",
+      "createdAt": "2025-12-28T13:58:00.131Z",
+      "updatedAt": "2025-12-28T13:58:00.131Z",
+      "radioCount": 1
+    },
+    {
+      "id": 84,
+      "name": "Hard Rock",
+      "slug": "hard_rock",
+      "createdAt": "2025-12-28T13:57:16.295Z",
+      "updatedAt": "2025-12-28T13:57:16.295Z",
+      "radioCount": 1025
+    },
+    {
+      "id": 203,
+      "name": "Hardstyle",
+      "slug": "hardstyle",
+      "createdAt": "2025-12-28T15:03:46.714Z",
+      "updatedAt": "2025-12-28T15:03:46.714Z",
+      "radioCount": 2
+    },
+    {
+      "id": 199,
+      "name": "Hawaiian",
+      "slug": "hawaiian",
+      "createdAt": "2025-12-28T15:02:53.820Z",
+      "updatedAt": "2025-12-28T15:02:53.820Z",
+      "radioCount": 3
+    },
+    {
+      "id": 133,
+      "name": "Health",
+      "slug": "health",
+      "createdAt": "2025-12-28T13:58:00.136Z",
+      "updatedAt": "2025-12-28T13:58:00.136Z",
+      "radioCount": 7
+    },
+    {
+      "id": 237,
+      "name": "Hebrew",
+      "slug": "hebrew",
+      "createdAt": "2025-12-28T15:14:58.180Z",
+      "updatedAt": "2025-12-28T15:14:58.180Z",
+      "radioCount": 5
+    },
+    {
+      "id": 187,
+      "name": "Hindi",
+      "slug": "hindi",
+      "createdAt": "2025-12-28T15:00:38.671Z",
+      "updatedAt": "2025-12-28T15:00:38.671Z",
+      "radioCount": 15
+    },
+    {
+      "id": 118,
+      "name": "Hindu",
+      "slug": "hindu",
+      "createdAt": "2025-12-28T13:57:38.203Z",
+      "updatedAt": "2025-12-28T13:57:38.203Z",
+      "radioCount": 39
+    },
+    {
+      "id": 19,
+      "name": "Hip Hop",
+      "slug": "hip_hop",
+      "createdAt": "2025-12-28T13:57:05.622Z",
+      "updatedAt": "2025-12-28T13:57:05.622Z",
+      "radioCount": 3667
+    },
+    {
+      "id": 6,
+      "name": "Hits",
+      "slug": "hits",
+      "createdAt": "2025-12-28T13:57:04.591Z",
+      "updatedAt": "2025-12-28T13:57:04.591Z",
+      "radioCount": 13203
+    },
+    {
+      "id": 54,
+      "name": "Holidays",
+      "slug": "holidays",
+      "createdAt": "2025-12-28T13:57:11.285Z",
+      "updatedAt": "2025-12-28T13:57:11.285Z",
+      "radioCount": 327
+    },
+    {
+      "id": 109,
+      "name": "House",
+      "slug": "house",
+      "createdAt": "2025-12-28T13:57:26.403Z",
+      "updatedAt": "2025-12-28T13:57:26.403Z",
+      "radioCount": 1560
+    },
+    {
+      "id": 248,
+      "name": "Ibiza House",
+      "slug": "ibiza_house",
+      "createdAt": "2025-12-28T15:28:45.522Z",
+      "updatedAt": "2025-12-28T15:28:45.522Z",
+      "radioCount": 2
+    },
+    {
+      "id": 224,
+      "name": "IDM",
+      "slug": "idm",
+      "createdAt": "2025-12-28T15:08:36.516Z",
+      "updatedAt": "2025-12-28T15:08:36.516Z",
+      "radioCount": 0
+    },
+    {
+      "id": 223,
+      "name": "Indian",
+      "slug": "indian",
+      "createdAt": "2025-12-28T15:08:34.747Z",
+      "updatedAt": "2025-12-28T15:08:34.747Z",
+      "radioCount": 0
+    },
+    {
+      "id": 63,
+      "name": "Indie",
+      "slug": "indie",
+      "createdAt": "2025-12-28T13:57:12.522Z",
+      "updatedAt": "2025-12-28T13:57:12.522Z",
+      "radioCount": 1418
+    },
+    {
+      "id": 150,
+      "name": "Indigenous",
+      "slug": "indigenous",
+      "createdAt": "2025-12-28T13:58:34.828Z",
+      "updatedAt": "2025-12-28T13:58:34.828Z",
+      "radioCount": 31
+    },
+    {
+      "id": 11,
+      "name": "Information",
+      "slug": "information",
+      "createdAt": "2025-12-28T13:57:04.947Z",
+      "updatedAt": "2025-12-28T13:57:04.947Z",
+      "radioCount": 7369
+    },
+    {
+      "id": 97,
+      "name": "Instrumental",
+      "slug": "instrumental",
+      "createdAt": "2025-12-28T13:57:22.561Z",
+      "updatedAt": "2025-12-28T13:57:22.561Z",
+      "radioCount": 620
+    },
+    {
+      "id": 163,
+      "name": "Islamic",
+      "slug": "islamic",
+      "createdAt": "2025-12-28T13:59:02.696Z",
+      "updatedAt": "2025-12-28T13:59:02.696Z",
+      "radioCount": 377
+    },
+    {
+      "id": 34,
+      "name": "Italian",
+      "slug": "italian",
+      "createdAt": "2025-12-28T13:57:08.488Z",
+      "updatedAt": "2025-12-28T13:57:08.488Z",
+      "radioCount": 945
+    },
+    {
+      "id": 271,
+      "name": "Japanese",
+      "slug": "japanese",
+      "createdAt": "2025-12-28T19:20:54.001Z",
+      "updatedAt": "2025-12-28T19:20:54.001Z",
+      "radioCount": 1
+    },
+    {
+      "id": 76,
+      "name": "Jazz",
+      "slug": "jazz",
+      "createdAt": "2025-12-28T13:57:14.681Z",
+      "updatedAt": "2025-12-28T13:57:14.681Z",
+      "radioCount": 2603
+    },
+    {
+      "id": 138,
+      "name": "Jewish",
+      "slug": "jewish",
+      "createdAt": "2025-12-28T13:58:08.272Z",
+      "updatedAt": "2025-12-28T13:58:08.272Z",
+      "radioCount": 126
+    },
+    {
+      "id": 46,
+      "name": "J-Pop",
+      "slug": "j_pop",
+      "createdAt": "2025-12-28T13:57:09.511Z",
+      "updatedAt": "2025-12-28T13:57:09.511Z",
+      "radioCount": 202
+    },
+    {
+      "id": 193,
+      "name": "Jungle",
+      "slug": "jungle",
+      "createdAt": "2025-12-28T15:02:14.345Z",
+      "updatedAt": "2025-12-28T15:02:14.345Z",
+      "radioCount": 3
+    },
+    {
+      "id": 258,
+      "name": "Kids",
+      "slug": "kids",
+      "createdAt": "2025-12-28T16:56:32.097Z",
+      "updatedAt": "2025-12-28T16:56:32.097Z",
+      "radioCount": 2
+    },
+    {
+      "id": 219,
+      "name": "Kizomba",
+      "slug": "kizomba",
+      "createdAt": "2025-12-28T15:07:49.966Z",
+      "updatedAt": "2025-12-28T15:07:49.966Z",
+      "radioCount": 14
+    },
+    {
+      "id": 228,
+      "name": "K-P0p",
+      "slug": "k_p0p",
+      "createdAt": "2025-12-28T15:11:11.129Z",
+      "updatedAt": "2025-12-28T15:11:11.129Z",
+      "radioCount": 2
+    },
+    {
+      "id": 44,
+      "name": "K-Pop",
+      "slug": "k_pop",
+      "createdAt": "2025-12-28T13:57:09.291Z",
+      "updatedAt": "2025-12-28T13:57:09.291Z",
+      "radioCount": 158
+    },
+    {
+      "id": 252,
+      "name": "Kuduro",
+      "slug": "kuduro",
+      "createdAt": "2025-12-28T16:01:43.745Z",
+      "updatedAt": "2025-12-28T16:01:43.745Z",
+      "radioCount": 2
+    },
+    {
+      "id": 225,
+      "name": "Laptop Music",
+      "slug": "laptop_music",
+      "createdAt": "2025-12-28T15:08:36.521Z",
+      "updatedAt": "2025-12-28T15:08:36.521Z",
+      "radioCount": 0
+    },
+    {
+      "id": 10,
+      "name": "Latin",
+      "slug": "latin",
+      "createdAt": "2025-12-28T13:57:04.802Z",
+      "updatedAt": "2025-12-28T13:57:04.802Z",
+      "radioCount": 6305
+    },
+    {
+      "id": 75,
+      "name": "LGBT",
+      "slug": "lgbt",
+      "createdAt": "2025-12-28T13:57:14.623Z",
+      "updatedAt": "2025-12-28T13:57:14.623Z",
+      "radioCount": 97
+    },
+    {
+      "id": 221,
+      "name": "Lifestyle",
+      "slug": "lifestyle",
+      "createdAt": "2025-12-28T15:08:27.238Z",
+      "updatedAt": "2025-12-28T15:08:27.238Z",
+      "radioCount": 9
+    },
+    {
+      "id": 52,
+      "name": "Lite Pop",
+      "slug": "lite_pop",
+      "createdAt": "2025-12-28T13:57:10.959Z",
+      "updatedAt": "2025-12-28T13:57:10.959Z",
+      "radioCount": 1158
+    },
+    {
+      "id": 146,
+      "name": "Live Shows",
+      "slug": "live_shows",
+      "createdAt": "2025-12-28T13:58:29.399Z",
+      "updatedAt": "2025-12-28T13:58:29.399Z",
+      "radioCount": 9
+    },
+    {
+      "id": 147,
+      "name": "Local",
+      "slug": "local",
+      "createdAt": "2025-12-28T13:58:29.740Z",
+      "updatedAt": "2025-12-28T13:58:29.740Z",
+      "radioCount": 4
+    },
+    {
+      "id": 165,
+      "name": "Lo-Fi",
+      "slug": "lo_fi",
+      "createdAt": "2025-12-28T13:59:04.470Z",
+      "updatedAt": "2025-12-28T13:59:04.470Z",
+      "radioCount": 33
+    },
+    {
+      "id": 73,
+      "name": "Lounge",
+      "slug": "lounge",
+      "createdAt": "2025-12-28T13:57:14.159Z",
+      "updatedAt": "2025-12-28T13:57:14.159Z",
+      "radioCount": 584
+    },
+    {
+      "id": 29,
+      "name": "Love Songs",
+      "slug": "love_songs",
+      "createdAt": "2025-12-28T13:57:08.149Z",
+      "updatedAt": "2025-12-28T13:57:08.149Z",
+      "radioCount": 724
+    },
+    {
+      "id": 276,
+      "name": "Malayalam",
+      "slug": "malayalam",
+      "createdAt": "2026-02-07T07:40:30.795Z",
+      "updatedAt": "2026-02-07T07:40:30.795Z",
+      "radioCount": 2
+    },
+    {
+      "id": 249,
+      "name": "Manele",
+      "slug": "manele",
+      "createdAt": "2025-12-28T15:28:47.315Z",
+      "updatedAt": "2025-12-28T15:28:47.315Z",
+      "radioCount": 2
+    },
+    {
+      "id": 262,
+      "name": "Marching Band",
+      "slug": "marching_band",
+      "createdAt": "2025-12-28T18:22:31.261Z",
+      "updatedAt": "2025-12-28T18:22:31.261Z",
+      "radioCount": 1
+    },
+    {
+      "id": 227,
+      "name": "Mariachi",
+      "slug": "mariachi",
+      "createdAt": "2025-12-28T15:10:27.202Z",
+      "updatedAt": "2025-12-28T15:10:27.202Z",
+      "radioCount": 0
+    },
+    {
+      "id": 205,
+      "name": "Medieval",
+      "slug": "medieval",
+      "createdAt": "2025-12-28T15:03:59.795Z",
+      "updatedAt": "2025-12-28T15:03:59.795Z",
+      "radioCount": 10
+    },
+    {
+      "id": 60,
+      "name": "Meditation",
+      "slug": "meditation",
+      "createdAt": "2025-12-28T13:57:12.089Z",
+      "updatedAt": "2025-12-28T13:57:12.089Z",
+      "radioCount": 197
+    },
+    {
+      "id": 154,
+      "name": "Merengue",
+      "slug": "merengue",
+      "createdAt": "2025-12-28T13:58:48.558Z",
+      "updatedAt": "2025-12-28T13:58:48.558Z",
+      "radioCount": 371
+    },
+    {
+      "id": 74,
+      "name": "Metal",
+      "slug": "metal",
+      "createdAt": "2025-12-28T13:57:14.244Z",
+      "updatedAt": "2025-12-28T13:57:14.244Z",
+      "radioCount": 2109
+    },
+    {
+      "id": 242,
+      "name": "Mexican",
+      "slug": "mexican",
+      "createdAt": "2025-12-28T15:23:10.346Z",
+      "updatedAt": "2025-12-28T15:23:10.346Z",
+      "radioCount": 23
+    },
+    {
+      "id": 47,
+      "name": "Mexican Regional",
+      "slug": "mexican_regional",
+      "createdAt": "2025-12-28T13:57:09.776Z",
+      "updatedAt": "2025-12-28T13:57:09.776Z",
+      "radioCount": 1459
+    },
+    {
+      "id": 156,
+      "name": "Middle Eastern",
+      "slug": "middle_eastern",
+      "createdAt": "2025-12-28T13:58:51.062Z",
+      "updatedAt": "2025-12-28T13:58:51.062Z",
+      "radioCount": 78
+    },
+    {
+      "id": 186,
+      "name": "Military",
+      "slug": "military",
+      "createdAt": "2025-12-28T15:00:30.286Z",
+      "updatedAt": "2025-12-28T15:00:30.286Z",
+      "radioCount": 43
+    },
+    {
+      "id": 159,
+      "name": "Motown",
+      "slug": "motown",
+      "createdAt": "2025-12-28T13:58:53.827Z",
+      "updatedAt": "2025-12-28T13:58:53.827Z",
+      "radioCount": 82
+    },
+    {
+      "id": 185,
+      "name": "Movies",
+      "slug": "movies",
+      "createdAt": "2025-12-28T15:00:29.722Z",
+      "updatedAt": "2025-12-28T15:00:29.722Z",
+      "radioCount": 0
+    },
+    {
+      "id": 61,
+      "name": "MPB",
+      "slug": "mpb",
+      "createdAt": "2025-12-28T13:57:12.120Z",
+      "updatedAt": "2025-12-28T13:57:12.120Z",
+      "radioCount": 117
+    },
+    {
+      "id": 114,
+      "name": "Music",
+      "slug": "music",
+      "createdAt": "2025-12-28T13:57:35.266Z",
+      "updatedAt": "2025-12-28T13:57:35.266Z",
+      "radioCount": 70
+    },
+    {
+      "id": 234,
+      "name": "Native American",
+      "slug": "native_american",
+      "createdAt": "2025-12-28T15:14:14.969Z",
+      "updatedAt": "2025-12-28T15:14:14.969Z",
+      "radioCount": 5
+    },
+    {
+      "id": 222,
+      "name": "Nature",
+      "slug": "nature",
+      "createdAt": "2025-12-28T15:08:33.183Z",
+      "updatedAt": "2025-12-28T15:08:33.183Z",
+      "radioCount": 0
+    },
+    {
+      "id": 155,
+      "name": "New Age",
+      "slug": "new_age",
+      "createdAt": "2025-12-28T13:58:48.945Z",
+      "updatedAt": "2025-12-28T13:58:48.945Z",
+      "radioCount": 179
+    },
+    {
+      "id": 5,
+      "name": "News",
+      "slug": "news",
+      "createdAt": "2025-12-28T13:57:04.558Z",
+      "updatedAt": "2025-12-28T13:57:04.558Z",
+      "radioCount": 13339
+    },
+    {
+      "id": 181,
+      "name": "New Wave",
+      "slug": "new_wave",
+      "createdAt": "2025-12-28T14:59:43.934Z",
+      "updatedAt": "2025-12-28T14:59:43.934Z",
+      "radioCount": 3
+    },
+    {
+      "id": 170,
+      "name": "Norteña",
+      "slug": "nortea",
+      "createdAt": "2025-12-28T13:59:15.541Z",
+      "updatedAt": "2025-12-28T13:59:15.541Z",
+      "radioCount": 156
+    },
+    {
+      "id": 32,
+      "name": "Oldies",
+      "slug": "oldies",
+      "createdAt": "2025-12-28T13:57:08.373Z",
+      "updatedAt": "2025-12-28T13:57:08.373Z",
+      "radioCount": 5306
+    },
+    {
+      "id": 162,
+      "name": "Old School",
+      "slug": "old_school",
+      "createdAt": "2025-12-28T13:58:57.217Z",
+      "updatedAt": "2025-12-28T13:58:57.217Z",
+      "radioCount": 194
+    },
+    {
+      "id": 235,
+      "name": "Old Time Radio",
+      "slug": "old_time_radio",
+      "createdAt": "2025-12-28T15:14:21.364Z",
+      "updatedAt": "2025-12-28T15:14:21.364Z",
+      "radioCount": 12
+    },
+    {
+      "id": 140,
+      "name": "Opera",
+      "slug": "opera",
+      "createdAt": "2025-12-28T13:58:11.613Z",
+      "updatedAt": "2025-12-28T13:58:11.613Z",
+      "radioCount": 158
+    },
+    {
+      "id": 8,
+      "name": "Other",
+      "slug": "other",
+      "createdAt": "2025-12-28T13:57:04.729Z",
+      "updatedAt": "2025-12-28T13:57:04.729Z",
+      "radioCount": 3137
+    },
+    {
+      "id": 244,
+      "name": "Paranormal Talk",
+      "slug": "paranormal_talk",
+      "createdAt": "2025-12-28T15:24:31.655Z",
+      "updatedAt": "2025-12-28T15:24:31.655Z",
+      "radioCount": 6
+    },
+    {
+      "id": 211,
+      "name": "Persian",
+      "slug": "persian",
+      "createdAt": "2025-12-28T15:05:02.508Z",
+      "updatedAt": "2025-12-28T15:05:02.508Z",
+      "radioCount": 8
+    },
+    {
+      "id": 265,
+      "name": "Poetry & Prose",
+      "slug": "poetry_prose",
+      "createdAt": "2025-12-28T18:45:06.457Z",
+      "updatedAt": "2025-12-28T18:45:06.457Z",
+      "radioCount": 0
+    },
+    {
+      "id": 85,
+      "name": "Polish",
+      "slug": "polish",
+      "createdAt": "2025-12-28T13:57:16.351Z",
+      "updatedAt": "2025-12-28T13:57:16.351Z",
+      "radioCount": 226
+    },
+    {
+      "id": 137,
+      "name": "Politics",
+      "slug": "politics",
+      "createdAt": "2025-12-28T13:58:06.748Z",
+      "updatedAt": "2025-12-28T13:58:06.748Z",
+      "radioCount": 562
+    },
+    {
+      "id": 188,
+      "name": "Polka",
+      "slug": "polka",
+      "createdAt": "2025-12-28T15:00:38.723Z",
+      "updatedAt": "2025-12-28T15:00:38.723Z",
+      "radioCount": 10
+    },
+    {
+      "id": 1,
+      "name": "Pop",
+      "slug": "pop",
+      "createdAt": "2025-12-28T13:57:04.477Z",
+      "updatedAt": "2025-12-28T13:57:04.477Z",
+      "radioCount": 23307
+    },
+    {
+      "id": 27,
+      "name": "Portuguese",
+      "slug": "portuguese",
+      "createdAt": "2025-12-28T13:57:07.981Z",
+      "updatedAt": "2025-12-28T13:57:07.981Z",
+      "radioCount": 891
+    },
+    {
+      "id": 172,
+      "name": "Postpunk",
+      "slug": "postpunk",
+      "createdAt": "2025-12-28T13:59:23.261Z",
+      "updatedAt": "2025-12-28T13:59:23.261Z",
+      "radioCount": 44
+    },
+    {
+      "id": 270,
+      "name": "Postrock",
+      "slug": "postrock",
+      "createdAt": "2025-12-28T19:17:46.477Z",
+      "updatedAt": "2025-12-28T19:17:46.477Z",
+      "radioCount": 0
+    },
+    {
+      "id": 176,
+      "name": "Praise & Worship",
+      "slug": "praise_worship",
+      "createdAt": "2025-12-28T13:59:25.678Z",
+      "updatedAt": "2025-12-28T13:59:25.678Z",
+      "radioCount": 21
+    },
+    {
+      "id": 167,
+      "name": "Progressive",
+      "slug": "progressive",
+      "createdAt": "2025-12-28T13:59:12.806Z",
+      "updatedAt": "2025-12-28T13:59:12.806Z",
+      "radioCount": 16
+    },
+    {
+      "id": 81,
+      "name": "Progressive House",
+      "slug": "progressive_house",
+      "createdAt": "2025-12-28T13:57:16.049Z",
+      "updatedAt": "2025-12-28T13:57:16.049Z",
+      "radioCount": 315
+    },
+    {
+      "id": 127,
+      "name": "Psychedelic",
+      "slug": "psychedelic",
+      "createdAt": "2025-12-28T13:57:46.941Z",
+      "updatedAt": "2025-12-28T13:57:46.941Z",
+      "radioCount": 48
+    },
+    {
+      "id": 141,
+      "name": "Public",
+      "slug": "public",
+      "createdAt": "2025-12-28T13:58:16.748Z",
+      "updatedAt": "2025-12-28T13:58:16.748Z",
+      "radioCount": 0
+    },
+    {
+      "id": 274,
+      "name": "Public Radio",
+      "slug": "public_radio",
+      "createdAt": "2026-01-01T14:31:34.848Z",
+      "updatedAt": "2026-01-01T14:31:34.848Z",
+      "radioCount": 106
+    },
+    {
+      "id": 120,
+      "name": "Punjabi",
+      "slug": "punjabi",
+      "createdAt": "2025-12-28T13:57:39.289Z",
+      "updatedAt": "2025-12-28T13:57:39.289Z",
+      "radioCount": 110
+    },
+    {
+      "id": 66,
+      "name": "Punk",
+      "slug": "punk",
+      "createdAt": "2025-12-28T13:57:12.716Z",
+      "updatedAt": "2025-12-28T13:57:12.716Z",
+      "radioCount": 352
+    },
+    {
+      "id": 250,
+      "name": "Radio Reading Service",
+      "slug": "radio_reading_service",
+      "createdAt": "2025-12-28T16:00:07.090Z",
+      "updatedAt": "2025-12-28T16:00:07.090Z",
+      "radioCount": 5
+    },
+    {
+      "id": 64,
+      "name": "Ranchera",
+      "slug": "ranchera",
+      "createdAt": "2025-12-28T13:57:12.631Z",
+      "updatedAt": "2025-12-28T13:57:12.631Z",
+      "radioCount": 940
+    },
+    {
+      "id": 93,
+      "name": "Rap",
+      "slug": "rap",
+      "createdAt": "2025-12-28T13:57:18.211Z",
+      "updatedAt": "2025-12-28T13:57:18.211Z",
+      "radioCount": 1472
+    },
+    {
+      "id": 86,
+      "name": "Reggae",
+      "slug": "reggae",
+      "createdAt": "2025-12-28T13:57:16.645Z",
+      "updatedAt": "2025-12-28T13:57:16.645Z",
+      "radioCount": 1284
+    },
+    {
+      "id": 82,
+      "name": "Reggaeton",
+      "slug": "reggaeton",
+      "createdAt": "2025-12-28T13:57:16.097Z",
+      "updatedAt": "2025-12-28T13:57:16.097Z",
+      "radioCount": 598
+    },
+    {
+      "id": 28,
+      "name": "Religious",
+      "slug": "religious",
+      "createdAt": "2025-12-28T13:57:07.984Z",
+      "updatedAt": "2025-12-28T13:57:07.984Z",
+      "radioCount": 4902
+    },
+    {
+      "id": 78,
+      "name": "RnB",
+      "slug": "rnb",
+      "createdAt": "2025-12-28T13:57:14.811Z",
+      "updatedAt": "2025-12-28T13:57:14.811Z",
+      "radioCount": 1489
+    },
+    {
+      "id": 14,
+      "name": "Rock",
+      "slug": "rock",
+      "createdAt": "2025-12-28T13:57:05.003Z",
+      "updatedAt": "2025-12-28T13:57:05.003Z",
+      "radioCount": 11717
+    },
+    {
+      "id": 216,
+      "name": "Rock'n'Roll",
+      "slug": "rocknroll",
+      "createdAt": "2025-12-28T15:06:32.768Z",
+      "updatedAt": "2025-12-28T15:06:32.768Z",
+      "radioCount": 0
+    },
+    {
+      "id": 37,
+      "name": "Romanian",
+      "slug": "romanian",
+      "createdAt": "2025-12-28T13:57:08.679Z",
+      "updatedAt": "2025-12-28T13:57:08.679Z",
+      "radioCount": 140
+    },
+    {
+      "id": 48,
+      "name": "Romantic",
+      "slug": "romantic",
+      "createdAt": "2025-12-28T13:57:09.781Z",
+      "updatedAt": "2025-12-28T13:57:09.781Z",
+      "radioCount": 900
+    },
+    {
+      "id": 266,
+      "name": "Roots",
+      "slug": "roots",
+      "createdAt": "2025-12-28T18:49:13.130Z",
+      "updatedAt": "2025-12-28T18:49:13.130Z",
+      "radioCount": 0
+    },
+    {
+      "id": 197,
+      "name": "Rumba",
+      "slug": "rumba",
+      "createdAt": "2025-12-28T15:02:45.062Z",
+      "updatedAt": "2025-12-28T15:02:45.062Z",
+      "radioCount": 2
+    },
+    {
+      "id": 269,
+      "name": "Rural",
+      "slug": "rural",
+      "createdAt": "2025-12-28T19:08:47.058Z",
+      "updatedAt": "2025-12-28T19:08:47.058Z",
+      "radioCount": 0
+    },
+    {
+      "id": 33,
+      "name": "Russian",
+      "slug": "russian",
+      "createdAt": "2025-12-28T13:57:08.400Z",
+      "updatedAt": "2025-12-28T13:57:08.400Z",
+      "radioCount": 590
+    },
+    {
+      "id": 45,
+      "name": "Salsa",
+      "slug": "salsa",
+      "createdAt": "2025-12-28T13:57:09.443Z",
+      "updatedAt": "2025-12-28T13:57:09.443Z",
+      "radioCount": 1485
+    },
+    {
+      "id": 275,
+      "name": "Samba",
+      "slug": "samba",
+      "createdAt": "2026-01-20T07:41:42.016Z",
+      "updatedAt": "2026-01-20T07:41:42.016Z",
+      "radioCount": 0
+    },
+    {
+      "id": 101,
+      "name": "Schlager",
+      "slug": "schlager",
+      "createdAt": "2025-12-28T13:57:23.630Z",
+      "updatedAt": "2025-12-28T13:57:23.630Z",
+      "radioCount": 44
+    },
+    {
+      "id": 218,
+      "name": "Science",
+      "slug": "science",
+      "createdAt": "2025-12-28T15:07:14.627Z",
+      "updatedAt": "2025-12-28T15:07:14.627Z",
+      "radioCount": 1
+    },
+    {
+      "id": 4,
+      "name": "Sertanejo",
+      "slug": "sertanejo",
+      "createdAt": "2025-12-28T13:57:04.522Z",
+      "updatedAt": "2025-12-28T13:57:04.522Z",
+      "radioCount": 1767
+    },
+    {
+      "id": 173,
+      "name": "Shoegaze",
+      "slug": "shoegaze",
+      "createdAt": "2025-12-28T13:59:23.272Z",
+      "updatedAt": "2025-12-28T13:59:23.272Z",
+      "radioCount": 15
+    },
+    {
+      "id": 158,
+      "name": "Singer-Songwriter",
+      "slug": "singer_songwriter",
+      "createdAt": "2025-12-28T13:58:51.409Z",
+      "updatedAt": "2025-12-28T13:58:51.409Z",
+      "radioCount": 56
+    },
+    {
+      "id": 196,
+      "name": "Ska",
+      "slug": "ska",
+      "createdAt": "2025-12-28T15:02:41.986Z",
+      "updatedAt": "2025-12-28T15:02:41.986Z",
+      "radioCount": 1
+    },
+    {
+      "id": 220,
+      "name": "Slow",
+      "slug": "slow",
+      "createdAt": "2025-12-28T15:08:23.756Z",
+      "updatedAt": "2025-12-28T15:08:23.756Z",
+      "radioCount": 0
+    },
+    {
+      "id": 136,
+      "name": "Smooth Jazz",
+      "slug": "smooth_jazz",
+      "createdAt": "2025-12-28T13:58:06.510Z",
+      "updatedAt": "2025-12-28T13:58:06.510Z",
+      "radioCount": 466
+    },
+    {
+      "id": 116,
+      "name": "Soca",
+      "slug": "soca",
+      "createdAt": "2025-12-28T13:57:37.133Z",
+      "updatedAt": "2025-12-28T13:57:37.133Z",
+      "radioCount": 202
+    },
+    {
+      "id": 171,
+      "name": "Soft",
+      "slug": "soft",
+      "createdAt": "2025-12-28T13:59:22.379Z",
+      "updatedAt": "2025-12-28T13:59:22.379Z",
+      "radioCount": 10
+    },
+    {
+      "id": 35,
+      "name": "Soft Rock",
+      "slug": "soft_rock",
+      "createdAt": "2025-12-28T13:57:08.645Z",
+      "updatedAt": "2025-12-28T13:57:08.645Z",
+      "radioCount": 576
+    },
+    {
+      "id": 189,
+      "name": "Soukous",
+      "slug": "soukous",
+      "createdAt": "2025-12-28T15:01:09.652Z",
+      "updatedAt": "2025-12-28T15:01:09.652Z",
+      "radioCount": 5
+    },
+    {
+      "id": 88,
+      "name": "Soul",
+      "slug": "soul",
+      "createdAt": "2025-12-28T13:57:16.966Z",
+      "updatedAt": "2025-12-28T13:57:16.966Z",
+      "radioCount": 1599
+    },
+    {
+      "id": 53,
+      "name": "Soundtracks",
+      "slug": "soundtracks",
+      "createdAt": "2025-12-28T13:57:11.159Z",
+      "updatedAt": "2025-12-28T13:57:11.159Z",
+      "radioCount": 382
+    },
+    {
+      "id": 125,
+      "name": "Southern Rock",
+      "slug": "southern_rock",
+      "createdAt": "2025-12-28T13:57:45.547Z",
+      "updatedAt": "2025-12-28T13:57:45.547Z",
+      "radioCount": 16
+    },
+    {
+      "id": 12,
+      "name": "Spanish",
+      "slug": "spanish",
+      "createdAt": "2025-12-28T13:57:04.958Z",
+      "updatedAt": "2025-12-28T13:57:04.958Z",
+      "radioCount": 6800
+    },
+    {
+      "id": 200,
+      "name": "Spiritual",
+      "slug": "spiritual",
+      "createdAt": "2025-12-28T15:03:02.876Z",
+      "updatedAt": "2025-12-28T15:03:02.876Z",
+      "radioCount": 12
+    },
+    {
+      "id": 212,
+      "name": "Spoken Word",
+      "slug": "spoken_word",
+      "createdAt": "2025-12-28T15:05:07.940Z",
+      "updatedAt": "2025-12-28T15:05:07.940Z",
+      "radioCount": 6
+    },
+    {
+      "id": 43,
+      "name": "Sports",
+      "slug": "sports",
+      "createdAt": "2025-12-28T13:57:09.206Z",
+      "updatedAt": "2025-12-28T13:57:09.206Z",
+      "radioCount": 3509
+    },
+    {
+      "id": 180,
+      "name": "Standards",
+      "slug": "standards",
+      "createdAt": "2025-12-28T14:59:19.256Z",
+      "updatedAt": "2025-12-28T14:59:19.256Z",
+      "radioCount": 18
+    },
+    {
+      "id": 208,
+      "name": "Student Radio",
+      "slug": "student_radio",
+      "createdAt": "2025-12-28T15:04:20.758Z",
+      "updatedAt": "2025-12-28T15:04:20.758Z",
+      "radioCount": 29
+    },
+    {
+      "id": 92,
+      "name": "Swing",
+      "slug": "swing",
+      "createdAt": "2025-12-28T13:57:17.591Z",
+      "updatedAt": "2025-12-28T13:57:17.591Z",
+      "radioCount": 123
+    },
+    {
+      "id": 80,
+      "name": "Synthpop",
+      "slug": "synthpop",
+      "createdAt": "2025-12-28T13:57:15.703Z",
+      "updatedAt": "2025-12-28T13:57:15.703Z",
+      "radioCount": 294
+    },
+    {
+      "id": 13,
+      "name": "Talk",
+      "slug": "talk",
+      "createdAt": "2025-12-28T13:57:04.966Z",
+      "updatedAt": "2025-12-28T13:57:04.966Z",
+      "radioCount": 14733
+    },
+    {
+      "id": 117,
+      "name": "Tamil",
+      "slug": "tamil",
+      "createdAt": "2025-12-28T13:57:37.675Z",
+      "updatedAt": "2025-12-28T13:57:37.675Z",
+      "radioCount": 202
+    },
+    {
+      "id": 160,
+      "name": "Tango",
+      "slug": "tango",
+      "createdAt": "2025-12-28T13:58:55.417Z",
+      "updatedAt": "2025-12-28T13:58:55.417Z",
+      "radioCount": 68
+    },
+    {
+      "id": 99,
+      "name": "Techno",
+      "slug": "techno",
+      "createdAt": "2025-12-28T13:57:22.884Z",
+      "updatedAt": "2025-12-28T13:57:22.884Z",
+      "radioCount": 952
+    },
+    {
+      "id": 166,
+      "name": "Technology",
+      "slug": "technology",
+      "createdAt": "2025-12-28T13:59:06.130Z",
+      "updatedAt": "2025-12-28T13:59:06.130Z",
+      "radioCount": 1
+    },
+    {
+      "id": 89,
+      "name": "Teen Pop",
+      "slug": "teen_pop",
+      "createdAt": "2025-12-28T13:57:17.022Z",
+      "updatedAt": "2025-12-28T13:57:17.022Z",
+      "radioCount": 45
+    },
+    {
+      "id": 210,
+      "name": "Tejano",
+      "slug": "tejano",
+      "createdAt": "2025-12-28T15:04:59.477Z",
+      "updatedAt": "2025-12-28T15:04:59.477Z",
+      "radioCount": 42
+    },
+    {
+      "id": 231,
+      "name": "Telugu",
+      "slug": "telugu",
+      "createdAt": "2025-12-28T15:12:43.235Z",
+      "updatedAt": "2025-12-28T15:12:43.235Z",
+      "radioCount": 24
+    },
+    {
+      "id": 15,
+      "name": "Top 40",
+      "slug": "top_40",
+      "createdAt": "2025-12-28T13:57:05.008Z",
+      "updatedAt": "2025-12-28T13:57:05.008Z",
+      "radioCount": 7166
+    },
+    {
+      "id": 253,
+      "name": "Tourism & Travel",
+      "slug": "tourism_travel",
+      "createdAt": "2025-12-28T16:02:46.426Z",
+      "updatedAt": "2025-12-28T16:02:46.426Z",
+      "radioCount": 3
+    },
+    {
+      "id": 201,
+      "name": "Traditional",
+      "slug": "traditional",
+      "createdAt": "2025-12-28T15:03:11.921Z",
+      "updatedAt": "2025-12-28T15:03:11.921Z",
+      "radioCount": 13
+    },
+    {
+      "id": 144,
+      "name": "Traffic",
+      "slug": "traffic",
+      "createdAt": "2025-12-28T13:58:23.130Z",
+      "updatedAt": "2025-12-28T13:58:23.130Z",
+      "radioCount": 24
+    },
+    {
+      "id": 110,
+      "name": "Trance",
+      "slug": "trance",
+      "createdAt": "2025-12-28T13:57:26.407Z",
+      "updatedAt": "2025-12-28T13:57:26.407Z",
+      "radioCount": 543
+    },
+    {
+      "id": 151,
+      "name": "Trap",
+      "slug": "trap",
+      "createdAt": "2025-12-28T13:58:46.113Z",
+      "updatedAt": "2025-12-28T13:58:46.113Z",
+      "radioCount": 107
+    },
+    {
+      "id": 233,
+      "name": "Travel / Tourism",
+      "slug": "travel_tourism",
+      "createdAt": "2025-12-28T15:13:58.240Z",
+      "updatedAt": "2025-12-28T15:13:58.240Z",
+      "radioCount": 1
+    },
+    {
+      "id": 174,
+      "name": "Tribute",
+      "slug": "tribute",
+      "createdAt": "2025-12-28T13:59:23.546Z",
+      "updatedAt": "2025-12-28T13:59:23.546Z",
+      "radioCount": 12
+    },
+    {
+      "id": 106,
+      "name": "Tropical",
+      "slug": "tropical",
+      "createdAt": "2025-12-28T13:57:25.810Z",
+      "updatedAt": "2025-12-28T13:57:25.810Z",
+      "radioCount": 165
+    },
+    {
+      "id": 58,
+      "name": "Turkish",
+      "slug": "turkish",
+      "createdAt": "2025-12-28T13:57:11.758Z",
+      "updatedAt": "2025-12-28T13:57:11.758Z",
+      "radioCount": 592
+    },
+    {
+      "id": 182,
+      "name": "Underground",
+      "slug": "underground",
+      "createdAt": "2025-12-28T14:59:43.950Z",
+      "updatedAt": "2025-12-28T14:59:43.950Z",
+      "radioCount": 31
+    },
+    {
+      "id": 20,
+      "name": "Urban",
+      "slug": "urban",
+      "createdAt": "2025-12-28T13:57:05.628Z",
+      "updatedAt": "2025-12-28T13:57:05.628Z",
+      "radioCount": 1146
+    },
+    {
+      "id": 209,
+      "name": "Urdu",
+      "slug": "urdu",
+      "createdAt": "2025-12-28T15:04:31.305Z",
+      "updatedAt": "2025-12-28T15:04:31.305Z",
+      "radioCount": 3
+    },
+    {
+      "id": 226,
+      "name": "Vallenato",
+      "slug": "vallenato",
+      "createdAt": "2025-12-28T15:09:55.277Z",
+      "updatedAt": "2025-12-28T15:09:55.277Z",
+      "radioCount": 5
+    },
+    {
+      "id": 7,
+      "name": "Variety",
+      "slug": "variety",
+      "createdAt": "2025-12-28T13:57:04.602Z",
+      "updatedAt": "2025-12-28T13:57:04.602Z",
+      "radioCount": 7710
+    },
+    {
+      "id": 190,
+      "name": "Video Game",
+      "slug": "video_game",
+      "createdAt": "2025-12-28T15:02:06.723Z",
+      "updatedAt": "2025-12-28T15:02:06.723Z",
+      "radioCount": 3
+    },
+    {
+      "id": 192,
+      "name": "Vocal",
+      "slug": "vocal",
+      "createdAt": "2025-12-28T15:02:14.285Z",
+      "updatedAt": "2025-12-28T15:02:14.285Z",
+      "radioCount": 0
+    },
+    {
+      "id": 135,
+      "name": "Weather",
+      "slug": "weather",
+      "createdAt": "2025-12-28T13:58:05.125Z",
+      "updatedAt": "2025-12-28T13:58:05.125Z",
+      "radioCount": 337
+    },
+    {
+      "id": 268,
+      "name": "Woman",
+      "slug": "woman",
+      "createdAt": "2025-12-28T19:01:25.364Z",
+      "updatedAt": "2025-12-28T19:01:25.364Z",
+      "radioCount": 0
+    },
+    {
+      "id": 39,
+      "name": "World",
+      "slug": "world",
+      "createdAt": "2025-12-28T13:57:09.018Z",
+      "updatedAt": "2025-12-28T13:57:09.018Z",
+      "radioCount": 3001
+    },
+    {
+      "id": 161,
+      "name": "Zouk",
+      "slug": "zouk",
+      "createdAt": "2025-12-28T13:58:56.736Z",
+      "updatedAt": "2025-12-28T13:58:56.736Z",
+      "radioCount": 101
+    }
+  ]
+}
