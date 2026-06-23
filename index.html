@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>RadioWorld</title>
   <link rel="stylesheet" href="/src/style.css">
 </head>
+
 <body>
 
   <!-- Loading overlay -->
@@ -35,6 +37,8 @@
       <button id="reset-filter" class="reset-btn hidden">&#x2715; Clear</button>
     </div>
 
+    <button id="random-btn" class="random-btn">Load Random Stations</button>
+
     <div class="filter-section">
       <div class="filter-label">Favourites</div>
       <div id="favourites-list" class="chip-list"></div>
@@ -43,7 +47,8 @@
     <div class="filter-section">
       <div class="filter-label">Genre</div>
       <div class="chip-search-wrap">
-        <input id="genre-search" class="chip-search" type="text" placeholder="Search genres…" autocomplete="off" spellcheck="false">
+        <input id="genre-search" class="chip-search" type="text" placeholder="Search genres…" autocomplete="off"
+          spellcheck="false">
         <ul id="genre-autocomplete" class="chip-autocomplete hidden"></ul>
       </div>
       <div id="genre-list" class="chip-list">
@@ -54,7 +59,8 @@
     <div class="filter-section">
       <div class="filter-label">Country</div>
       <div class="chip-search-wrap">
-        <input id="country-search" class="chip-search" type="text" placeholder="Search countries…" autocomplete="off" spellcheck="false">
+        <input id="country-search" class="chip-search" type="text" placeholder="Search countries…" autocomplete="off"
+          spellcheck="false">
         <ul id="country-autocomplete" class="chip-autocomplete hidden"></ul>
       </div>
       <div id="country-list" class="chip-list">
@@ -65,7 +71,8 @@
     <div class="filter-section">
       <div class="filter-label">Language</div>
       <div class="chip-search-wrap">
-        <input id="language-search" class="chip-search" type="text" placeholder="Search languages…" autocomplete="off" spellcheck="false">
+        <input id="language-search" class="chip-search" type="text" placeholder="Search languages…" autocomplete="off"
+          spellcheck="false">
         <ul id="language-autocomplete" class="chip-autocomplete hidden"></ul>
       </div>
       <div id="language-list" class="chip-list">
@@ -114,4 +121,5 @@
 
   <script type="module" src="/src/main.js"></script>
 </body>
+
 </html>

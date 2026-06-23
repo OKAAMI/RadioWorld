@@ -21,6 +21,7 @@ export async function initSearchPanel({ onFilter, onReset }) {
   onResetCb  = onReset;
 
   resetBtn().addEventListener('click', resetFilter);
+  document.getElementById('random-btn').addEventListener('click', resetFilter);
 
   // Genres, languages, and countries loaded from local JSON snapshots — no network requests
   const genres    = genresData.data    ?? [];
