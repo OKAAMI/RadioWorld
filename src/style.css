@@ -70,8 +70,8 @@ canvas { display: block; }
 /* ── Station panel ── */
 #station-panel {
   position: fixed;
-  bottom: 2rem;
-  left: 2rem;
+  top: 2rem;
+  right: 2rem;
   width: 300px;
   background: rgba(6, 6, 16, 0.92);
   backdrop-filter: blur(20px);
@@ -86,13 +86,34 @@ canvas { display: block; }
 #station-panel.hidden {
   opacity: 0;
   pointer-events: none;
-  transform: translateY(12px);
+  transform: translateY(-12px);
 }
 
-#close-panel {
+.panel-actions {
   position: absolute;
   top: 0.75rem;
   right: 0.9rem;
+  display: flex;
+  align-items: center;
+  gap: 0.1rem;
+}
+
+#fav-btn {
+  background: none;
+  border: none;
+  color: rgba(255,255,255,0.3);
+  font-size: 1.15rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: color 0.15s, transform 0.15s;
+  padding: 0.1rem 0.3rem;
+}
+
+#fav-btn:hover          { color: #ff4466; }
+#fav-btn.active         { color: #ff4466; }
+#fav-btn.active:hover   { transform: scale(1.2); }
+
+#close-panel {
   background: none;
   border: none;
   color: rgba(255,255,255,0.35);
@@ -104,6 +125,16 @@ canvas { display: block; }
 }
 
 #close-panel:hover { color: #fff; }
+
+.fav-filter-chip {
+  color: #ff6680 !important;
+  border-color: rgba(255,68,102,0.3) !important;
+}
+
+.fav-filter-chip.active {
+  background: rgba(255,68,102,0.18) !important;
+  border-color: rgba(255,68,102,0.65) !important;
+}
 
 /* Station header */
 .station-header {
@@ -415,6 +446,65 @@ canvas { display: block; }
 .chips-empty {
   font-size: 0.68rem;
   color: rgba(255,255,255,0.25);
+}
+
+/* Chip search input + autocomplete dropdown (genre & language) */
+.chip-search-wrap {
+  position: relative;
+}
+
+.chip-search {
+  width: 100%;
+  box-sizing: border-box;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.13);
+  border-radius: 8px;
+  color: rgba(255,255,255,0.85);
+  font-size: 0.72rem;
+  padding: 0.3rem 0.6rem;
+  outline: none;
+  transition: border-color 0.15s;
+}
+
+.chip-search::placeholder {
+  color: rgba(255,255,255,0.25);
+}
+
+.chip-search:focus {
+  border-color: rgba(255,68,102,0.45);
+}
+
+.chip-autocomplete {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  background: rgba(20,20,30,0.96);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 8px;
+  list-style: none;
+  margin: 0;
+  padding: 0.25rem 0;
+  z-index: 50;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+}
+
+.chip-autocomplete.hidden { display: none; }
+
+.chip-autocomplete-item {
+  font-size: 0.72rem;
+  color: rgba(255,255,255,0.7);
+  padding: 0.3rem 0.7rem;
+  cursor: pointer;
+  transition: background 0.1s, color 0.1s;
+}
+
+.chip-autocomplete-item:hover,
+.chip-autocomplete-item.highlighted {
+  background: rgba(255,68,102,0.15);
+  color: #fff;
 }
 
 /* Mini spinner (used in panel header during filter loads) */

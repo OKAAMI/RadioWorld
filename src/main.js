@@ -2,9 +2,39 @@ import * as THREE from 'three/webgpu';
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import { createGlobe } from './globe.js';
 import { createStarfield } from './stars.js';
-import { fetchRandomStations, fetchRadiosByGenre, fetchRadiosByLanguage } from './api/radioService.js';
+import { fetchRandomStations, fetchRadiosByGenre, fetchRadiosByLanguage, fetchRadiosByCountry } from './api/radioService.js';
 import { buildPins, clearPins, animatePins, stationAtMouse } from './pins.js';
-import { initSearchPanel, updateStationCount } from './ui/searchPanel.js';
+import { initSearchPanel, updateStationCount, renderFavouritesChip } from './ui/searchPanel.js';
+import { getFavourites, isFavourite, toggleFavourite } from './favourites.js';
+import genresData from './api/genres.json';
+
+// Sorted longest-first so greedy matching picks "Classic Rock" before "Classic" or "Rock".
+const KNOWN_GENRES = (genresData.data ?? [])
+  .map(g => g.name ?? g.slug)
+  .filter(Boolean)
+  .sort((a, b) => b.split(' ').length - a.split(' ').length || b.length - a.length);
+
+function parseGenreText(text) {
+  const result = [];
+  let remaining = text.trim();
+  while (remaining.length > 0) {
+    let matched = false;
+    for (const genre of KNOWN_GENRES) {
+      if (remaining.toLowerCase().startsWith(genre.toLowerCase())) {
+        result.push(genre);
+        remaining = remaining.slice(genre.length).trimStart();
+        matched = true;
+        break;
+      }
+    }
+    if (!matched) {
+      const i = remaining.indexOf(' ');
+      if (i === -1) { result.push(remaining); remaining = ''; }
+      else { result.push(remaining.slice(0, i)); remaining = remaining.slice(i + 1).trimStart(); }
+    }
+  }
+  return result;
+}
 
 // ── DOM refs ──────────────────────────────────────────────────────────────────
 const loadingEl    = document.getElementById('loading');
@@ -14,6 +44,7 @@ const logoFallback = document.getElementById('logo-fallback');
 const nameEl       = document.getElementById('station-name');
 const metaEl       = document.getElementById('station-meta');
 const tagsEl       = document.getElementById('station-tags');
+const favBtn       = document.getElementById('fav-btn');
 const playBtn      = document.getElementById('play-btn');
 const playStatus   = document.getElementById('play-status');
 const playBitrate  = document.getElementById('play-bitrate');
@@ -43,10 +74,10 @@ function setPlayerState(state) {
   }
 }
 
-audioEl.addEventListener('playing', () => setPlayerState('playing'));
+audioEl.addEventListener('playing', () => { setPlayerState('playing'); playingStation = currentStation; });
 audioEl.addEventListener('waiting', () => { if (!audioEl.paused) setPlayerState('buffering'); });
-audioEl.addEventListener('pause',   () => setPlayerState('idle'));
-audioEl.addEventListener('error',   () => setPlayerState('error'));
+audioEl.addEventListener('pause',   () => { setPlayerState('idle');    playingStation = null; });
+audioEl.addEventListener('error',   () => { setPlayerState('error');   playingStation = null; });
 
 playBtn.addEventListener('click', () => {
   if (audioEl.paused || audioEl.ended) {
@@ -83,7 +114,7 @@ function showStation(station) {
   tagsEl.innerHTML = '';
   const genreText = station.genre?.text;
   if (genreText) {
-    genreText.split(' ').filter(Boolean).slice(0, 5).forEach(tag => {
+    parseGenreText(genreText).slice(0, 5).forEach(tag => {
       const chip = document.createElement('span');
       chip.className   = 'tag';
       chip.textContent = tag;
@@ -112,7 +143,12 @@ function showStation(station) {
   bandBadge.textContent = bandLabel;
   bandBadge.classList.toggle('hidden', !bandLabel);
 
+  const faved = isFavourite(station.id);
+  favBtn.classList.toggle('active', faved);
+  favBtn.innerHTML = faved ? '&#9829;' : '&#9825;';
+
   panel.classList.remove('hidden');
+  currentStation = station;
 }
 
 document.getElementById('close-panel').addEventListener('click', () => {
@@ -122,10 +158,20 @@ document.getElementById('close-panel').addEventListener('click', () => {
   panel.classList.add('hidden');
 });
 
+favBtn.addEventListener('click', () => {
+  if (!currentStation) return;
+  const added = toggleFavourite(currentStation);
+  favBtn.classList.toggle('active', added);
+  favBtn.innerHTML = added ? '&#9829;' : '&#9825;';
+  renderFavouritesChip();
+});
+
 // ── Globe scene ───────────────────────────────────────────────────────────────
 const mouse = new THREE.Vector2();
-let scene = null;
-let pins  = [];
+let scene          = null;
+let pins           = [];
+let currentStation = null;
+let playingStation = null;
 
 function loadStations(stations) {
   pins = clearPins(scene, pins);
@@ -141,13 +187,13 @@ async function init() {
   document.body.appendChild(renderer.domElement);
 
   scene  = new THREE.Scene();
-  const camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 0.1, 1000);
+  const camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 0.01, 1000);
   camera.position.z = 2.5;
 
   const controls = new OrbitControls(camera, renderer.domElement);
   controls.enableDamping   = true;
   controls.dampingFactor   = 0.05;
-  controls.minDistance     = 1.3;
+  controls.minDistance     = 1.05;
   controls.maxDistance     = 8;
   controls.autoRotate      = false;
 
@@ -171,9 +217,15 @@ async function init() {
   // Init search panel — genres + languages load in background
   initSearchPanel({
     onFilter: async ({ type, id }) => {
+      if (type === 'favourites') {
+        loadStations(getFavourites());
+        return;
+      }
       const stations = type === 'genre'
         ? await fetchRadiosByGenre(id)
-        : await fetchRadiosByLanguage(id);
+        : type === 'country'
+          ? await fetchRadiosByCountry(id)
+          : await fetchRadiosByLanguage(id);
       loadStations(stations);
     },
     onReset: async () => {
@@ -209,7 +261,7 @@ async function init() {
   renderer.setAnimationLoop(() => {
     t += 0.016;
     controls.update();
-    animatePins(pins, t);
+    animatePins(pins, t, playingStation, camera.position.length());
     renderer.render(scene, camera);
   });
 }

@@ -50,3 +50,16 @@ export async function fetchRadiosByLanguage(langCode, limit = 150) {
   });
   return unwrap(data);
 }
+
+export async function fetchStationById(id) {
+  const { data } = await axios.get(`${API_BASE_URL}/radios/${id}`, { headers });
+  return data.success ? data.data : null;
+}
+
+export async function fetchRadiosByCountry(countryName, limit = 150) {
+  const { data } = await axios.get(`${API_BASE_URL}/countries/${encodeURIComponent(countryName)}/radios`, {
+    headers,
+    params: { limit: String(limit), page: '1' },
+  });
+  return unwrap(data);
+}

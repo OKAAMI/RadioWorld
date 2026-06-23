@@ -36,14 +36,38 @@
     </div>
 
     <div class="filter-section">
+      <div class="filter-label">Favourites</div>
+      <div id="favourites-list" class="chip-list"></div>
+    </div>
+
+    <div class="filter-section">
       <div class="filter-label">Genre</div>
+      <div class="chip-search-wrap">
+        <input id="genre-search" class="chip-search" type="text" placeholder="Search genres…" autocomplete="off" spellcheck="false">
+        <ul id="genre-autocomplete" class="chip-autocomplete hidden"></ul>
+      </div>
       <div id="genre-list" class="chip-list">
         <div class="mini-spinner"></div>
       </div>
     </div>
 
     <div class="filter-section">
+      <div class="filter-label">Country</div>
+      <div class="chip-search-wrap">
+        <input id="country-search" class="chip-search" type="text" placeholder="Search countries…" autocomplete="off" spellcheck="false">
+        <ul id="country-autocomplete" class="chip-autocomplete hidden"></ul>
+      </div>
+      <div id="country-list" class="chip-list">
+        <div class="mini-spinner"></div>
+      </div>
+    </div>
+
+    <div class="filter-section">
       <div class="filter-label">Language</div>
+      <div class="chip-search-wrap">
+        <input id="language-search" class="chip-search" type="text" placeholder="Search languages…" autocomplete="off" spellcheck="false">
+        <ul id="language-autocomplete" class="chip-autocomplete hidden"></ul>
+      </div>
       <div id="language-list" class="chip-list">
         <div class="mini-spinner"></div>
       </div>
@@ -52,7 +76,10 @@
 
   <!-- ── Station info panel ── -->
   <div id="station-panel" class="hidden">
-    <button id="close-panel" aria-label="Close">&times;</button>
+    <div class="panel-actions">
+      <button id="fav-btn" class="fav-btn" aria-label="Save to favourites">&#9825;</button>
+      <button id="close-panel" aria-label="Close">&times;</button>
+    </div>
 
     <div class="station-header">
       <div class="logo-wrap">
